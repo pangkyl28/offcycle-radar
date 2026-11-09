@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T06:36:22+00:00",
+  "updated_at": "2026-11-09T06:38:19+00:00",
   "jobs": [
     {
       "id": "7474afa8374bffc32f68",
@@ -16,8 +16,8 @@
         "QuantScraper 2027",
         "Man Group"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "42bd1ea97d24fe3375c5",
@@ -34,8 +34,8 @@
         "QuantScraper 2027",
         "Belvedere Trading"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "c6354dcfe74ee12eed86",
@@ -51,8 +51,8 @@
       "sources": [
         "Point72"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "22decb02e9bb1b752c69",
@@ -68,8 +68,8 @@
       "sources": [
         "2027 US Internship List"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "e24c6834b989c499a7f5",
@@ -85,8 +85,8 @@
       "sources": [
         "2027 US Internship List"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "270e3086dcbb39b4b4e6",
@@ -102,8 +102,8 @@
       "sources": [
         "QuantScraper 2027"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "1858533abef6e54e0247",
@@ -119,8 +119,8 @@
       "sources": [
         "QuantScraper 2027"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "a111434a59babaf98f9c",
@@ -137,8 +137,8 @@
         "QuantScraper 2027",
         "Flow Traders"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "3a672fe705f196ec5430",
@@ -154,8 +154,8 @@
       "sources": [
         "2027 US Internship List"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "2ff98da0960910641042",
@@ -171,8 +171,8 @@
       "sources": [
         "2027 US Internship List"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "ccb24300e409363d70ae",
@@ -188,8 +188,8 @@
       "sources": [
         "2027 US Internship List"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "eb9fa94bd911894f0ee4",
@@ -205,8 +205,8 @@
       "sources": [
         "2027 US Internship List"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "f6ac8bfbee78a121af84",
@@ -222,8 +222,8 @@
       "sources": [
         "2027 US Internship List"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "cc85ebbf0543a522d3ee",
@@ -239,8 +239,8 @@
       "sources": [
         "2027 US Internship List"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "cfd0c64e53fbf7feff19",
@@ -256,8 +256,8 @@
       "sources": [
         "2027 US Internship List"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "5ced777b43bdc3725530",
@@ -273,8 +273,8 @@
       "sources": [
         "QuantCo"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "382b11d324d95050e55c",
@@ -290,8 +290,8 @@
       "sources": [
         "Netic"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "ee7cf0d69fd9adeaff7c",
@@ -307,8 +307,8 @@
       "sources": [
         "Netic"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "8aae4efd35af18541265",
@@ -324,8 +324,8 @@
       "sources": [
         "2027 US Internship List"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "46c38e6998c587e4c055",
@@ -341,8 +341,8 @@
       "sources": [
         "Point72"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "a153df68bf46c18b8d0b",
@@ -358,8 +358,8 @@
       "sources": [
         "2027 US Internship List"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "183875f20b55c66e53ed",
@@ -375,8 +375,8 @@
       "sources": [
         "2027 US Internship List"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "f854ccce78ef2098ae0d",
@@ -392,8 +392,8 @@
       "sources": [
         "2027 US Internship List"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "63896a2786ab96683dcc",
@@ -409,8 +409,8 @@
       "sources": [
         "QuantScraper 2027"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "c12bff9c6ce6aafc1026",
@@ -426,8 +426,8 @@
       "sources": [
         "QuantScraper 2027"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "1b099d34e5214bc06712",
@@ -443,8 +443,8 @@
       "sources": [
         "QuantScraper 2027"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "eba142aaa64fb7ebf18b",
@@ -460,8 +460,8 @@
       "sources": [
         "QuantScraper 2027"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "af9c2311ef936c9625a5",
@@ -477,8 +477,8 @@
       "sources": [
         "2027 US Internship List"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "521aa7e93e312495b6fd",
@@ -494,8 +494,8 @@
       "sources": [
         "2027 US Internship List"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "8b38bb9740d72fb99fca",
@@ -511,8 +511,8 @@
       "sources": [
         "2027 US Internship List"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "3a11ae16a2f91e30aef4",
@@ -528,8 +528,8 @@
       "sources": [
         "2027 US Internship List"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "879b8fafb4af6b79b26a",
@@ -545,8 +545,8 @@
       "sources": [
         "Point72"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "fe7e2a4235cfd0c574ad",
@@ -562,8 +562,8 @@
       "sources": [
         "Point72"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "316720daacab612cafbb",
@@ -579,8 +579,8 @@
       "sources": [
         "Point72"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "8e61c560df45774acf66",
@@ -596,8 +596,8 @@
       "sources": [
         "Neuralink"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "158b61c8a3a3d3018d68",
@@ -613,8 +613,8 @@
       "sources": [
         "Neuralink"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "3ff4c377b834ff2b7b85",
@@ -630,8 +630,8 @@
       "sources": [
         "2027 US Internship List"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "05bd563d7660711723df",
@@ -647,8 +647,8 @@
       "sources": [
         "2027 US Internship List"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "28274860eef6cd0f93a1",
@@ -664,8 +664,8 @@
       "sources": [
         "2027 US Internship List"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "432d0dd2375336cf5858",
@@ -681,8 +681,8 @@
       "sources": [
         "2027 US Internship List"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "5902279508256ec0445a",
@@ -698,8 +698,8 @@
       "sources": [
         "2027 US Internship List"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "bb700e5e7fcb1310ad0d",
@@ -715,8 +715,8 @@
       "sources": [
         "Point72"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "b3199e83b7fed82a4659",
@@ -732,8 +732,8 @@
       "sources": [
         "QuantScraper 2027"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "010eafb88992a541591a",
@@ -749,8 +749,8 @@
       "sources": [
         "QuantScraper 2027"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "a02fc80d003eba04e33a",
@@ -766,8 +766,8 @@
       "sources": [
         "QuantScraper 2027"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "10802aae1c233ec6b679",
@@ -783,8 +783,8 @@
       "sources": [
         "QuantScraper 2027"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "f011667dd000b690e4c0",
@@ -800,8 +800,8 @@
       "sources": [
         "QuantScraper 2027"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "ef2795415dcbbc10f457",
@@ -817,8 +817,8 @@
       "sources": [
         "QuantScraper 2027"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "823616566ba4b9e1e02d",
@@ -834,8 +834,8 @@
       "sources": [
         "QuantScraper 2027"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "a146755aeeb2219a81ca",
@@ -851,8 +851,8 @@
       "sources": [
         "QuantScraper 2027"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "d0ef842744eec0a835b5",
@@ -868,8 +868,8 @@
       "sources": [
         "QuantScraper 2027"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "c2ec837cb15c086ecf03",
@@ -885,8 +885,8 @@
       "sources": [
         "QuantScraper 2027"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "c3a99082ee7222c4b927",
@@ -902,8 +902,8 @@
       "sources": [
         "QuantScraper 2027"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "b9b8c6bd973d72846cff",
@@ -919,8 +919,8 @@
       "sources": [
         "QuantScraper 2027"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "34eece2f466de59ecd6b",
@@ -936,8 +936,8 @@
       "sources": [
         "QuantScraper 2027"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "d23512980a2aeb671b31",
@@ -954,8 +954,8 @@
         "QuantScraper 2027",
         "IMC Trading"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "383c5ba2ea1c5d0df307",
@@ -972,8 +972,8 @@
         "QuantScraper 2027",
         "IMC Trading"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "ef2a416ba63719452f81",
@@ -990,8 +990,8 @@
         "QuantScraper 2027",
         "IMC Trading"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "725054aecc0fda4d0a2b",
@@ -1007,8 +1007,8 @@
       "sources": [
         "QuantScraper 2027"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "8ffe6614f0a17c4bce0d",
@@ -1024,8 +1024,8 @@
       "sources": [
         "QuantScraper 2027"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "f1e22f12a3ac11dbb0ac",
@@ -1041,8 +1041,8 @@
       "sources": [
         "QuantScraper 2027"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "f4e7292e42cddcf70e7e",
@@ -1058,8 +1058,8 @@
       "sources": [
         "2027 US Internship List"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "36efd01991f9cb06692d",
@@ -1075,8 +1075,8 @@
       "sources": [
         "2027 US Internship List"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "d83f6c740c53d0619398",
@@ -1092,8 +1092,8 @@
       "sources": [
         "2027 US Internship List"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "3ed3d204de52e1413efb",
@@ -1109,8 +1109,8 @@
       "sources": [
         "2027 US Internship List"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "db6adbcb5ed2a583ca5f",
@@ -1126,8 +1126,8 @@
       "sources": [
         "Point72"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "17ffa0b2d18c37ad2d62",
@@ -1143,8 +1143,8 @@
       "sources": [
         "IMC Trading"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "777868d424d967d443e0",
@@ -1160,8 +1160,8 @@
       "sources": [
         "Man Group"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "61340cad16a0223850af",
@@ -1177,8 +1177,8 @@
       "sources": [
         "2027 US Internship List"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "c2d55e3f21eaaa68bce5",
@@ -1194,8 +1194,8 @@
       "sources": [
         "2027 US Internship List"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "ae7a1ff1dad3abe77581",
@@ -1211,8 +1211,8 @@
       "sources": [
         "2027 US Internship List"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "1aadcf7788fd605db309",
@@ -1228,8 +1228,8 @@
       "sources": [
         "2027 US Internship List"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "500cb3104bde1bfe943e",
@@ -1245,8 +1245,8 @@
       "sources": [
         "2027 US Internship List"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "a7410cab7089999755ab",
@@ -1262,8 +1262,8 @@
       "sources": [
         "2027 US Internship List"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "160f6b2c643f5721d365",
@@ -1279,8 +1279,8 @@
       "sources": [
         "2027 US Internship List"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "36b41c952f124e923ad7",
@@ -1296,8 +1296,8 @@
       "sources": [
         "2027 US Internship List"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "84ef11bbc09d96d55cf6",
@@ -1313,8 +1313,8 @@
       "sources": [
         "2027 US Internship List"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "002897b2f1db63702b45",
@@ -1330,8 +1330,8 @@
       "sources": [
         "2027 US Internship List"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "12de48adbd3e6349e57c",
@@ -1347,8 +1347,8 @@
       "sources": [
         "2027 US Internship List"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "264fbecde6c02414f990",
@@ -1364,8 +1364,8 @@
       "sources": [
         "Neuralink"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "71497bbd8451ee685d16",
@@ -1381,8 +1381,8 @@
       "sources": [
         "Neuralink"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "2d2a91c22406d38e1124",
@@ -1398,8 +1398,8 @@
       "sources": [
         "Neuralink"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "d598511fa42e39329f62",
@@ -1415,8 +1415,8 @@
       "sources": [
         "Neuralink"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "9f21b60061fe216d99f8",
@@ -1432,8 +1432,8 @@
       "sources": [
         "Neuralink"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "0f559785eecd93d062d7",
@@ -1449,8 +1449,8 @@
       "sources": [
         "IMC Trading"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     },
     {
       "id": "9f26785cdfa0098afd78",
@@ -1466,8 +1466,8 @@
       "sources": [
         "IMC Trading"
       ],
-      "first_seen": "2026-11-09T06:32:25+00:00",
-      "is_new": false
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": true
     }
   ],
   "sources": [
