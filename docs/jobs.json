@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T06:38:19+00:00",
+  "updated_at": "2026-11-09T17:35:33+00:00",
   "jobs": [
     {
       "id": "7474afa8374bffc32f68",
@@ -17,7 +17,7 @@
         "Man Group"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "42bd1ea97d24fe3375c5",
@@ -35,7 +35,7 @@
         "Belvedere Trading"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "c6354dcfe74ee12eed86",
@@ -52,7 +52,7 @@
         "Point72"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "22decb02e9bb1b752c69",
@@ -69,7 +69,7 @@
         "2027 US Internship List"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "e24c6834b989c499a7f5",
@@ -86,7 +86,7 @@
         "2027 US Internship List"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "270e3086dcbb39b4b4e6",
@@ -103,7 +103,7 @@
         "QuantScraper 2027"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "1858533abef6e54e0247",
@@ -120,7 +120,7 @@
         "QuantScraper 2027"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "a111434a59babaf98f9c",
@@ -138,7 +138,7 @@
         "Flow Traders"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3a672fe705f196ec5430",
@@ -155,7 +155,7 @@
         "2027 US Internship List"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "2ff98da0960910641042",
@@ -172,7 +172,7 @@
         "2027 US Internship List"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "ccb24300e409363d70ae",
@@ -189,7 +189,7 @@
         "2027 US Internship List"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "eb9fa94bd911894f0ee4",
@@ -206,7 +206,7 @@
         "2027 US Internship List"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "f6ac8bfbee78a121af84",
@@ -223,7 +223,7 @@
         "2027 US Internship List"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "cc85ebbf0543a522d3ee",
@@ -240,7 +240,7 @@
         "2027 US Internship List"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "cfd0c64e53fbf7feff19",
@@ -257,7 +257,7 @@
         "2027 US Internship List"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "5ced777b43bdc3725530",
@@ -274,7 +274,7 @@
         "QuantCo"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "382b11d324d95050e55c",
@@ -291,7 +291,7 @@
         "Netic"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "ee7cf0d69fd9adeaff7c",
@@ -308,7 +308,7 @@
         "Netic"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "8aae4efd35af18541265",
@@ -325,7 +325,7 @@
         "2027 US Internship List"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "46c38e6998c587e4c055",
@@ -342,7 +342,7 @@
         "Point72"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "a153df68bf46c18b8d0b",
@@ -359,7 +359,7 @@
         "2027 US Internship List"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "183875f20b55c66e53ed",
@@ -376,7 +376,7 @@
         "2027 US Internship List"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "f854ccce78ef2098ae0d",
@@ -393,7 +393,7 @@
         "2027 US Internship List"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "63896a2786ab96683dcc",
@@ -410,7 +410,7 @@
         "QuantScraper 2027"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "c12bff9c6ce6aafc1026",
@@ -427,7 +427,7 @@
         "QuantScraper 2027"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "1b099d34e5214bc06712",
@@ -444,7 +444,7 @@
         "QuantScraper 2027"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "eba142aaa64fb7ebf18b",
@@ -461,7 +461,7 @@
         "QuantScraper 2027"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "af9c2311ef936c9625a5",
@@ -478,7 +478,7 @@
         "2027 US Internship List"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "521aa7e93e312495b6fd",
@@ -495,7 +495,7 @@
         "2027 US Internship List"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "8b38bb9740d72fb99fca",
@@ -512,7 +512,7 @@
         "2027 US Internship List"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3a11ae16a2f91e30aef4",
@@ -529,7 +529,7 @@
         "2027 US Internship List"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "879b8fafb4af6b79b26a",
@@ -546,7 +546,7 @@
         "Point72"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "fe7e2a4235cfd0c574ad",
@@ -563,7 +563,7 @@
         "Point72"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "316720daacab612cafbb",
@@ -580,7 +580,7 @@
         "Point72"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "8e61c560df45774acf66",
@@ -597,7 +597,7 @@
         "Neuralink"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "158b61c8a3a3d3018d68",
@@ -614,7 +614,7 @@
         "Neuralink"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3ff4c377b834ff2b7b85",
@@ -631,7 +631,7 @@
         "2027 US Internship List"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "05bd563d7660711723df",
@@ -648,7 +648,7 @@
         "2027 US Internship List"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "28274860eef6cd0f93a1",
@@ -665,7 +665,7 @@
         "2027 US Internship List"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "432d0dd2375336cf5858",
@@ -682,7 +682,7 @@
         "2027 US Internship List"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "5902279508256ec0445a",
@@ -699,7 +699,7 @@
         "2027 US Internship List"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "bb700e5e7fcb1310ad0d",
@@ -716,264 +716,7 @@
         "Point72"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
-    },
-    {
-      "id": "b3199e83b7fed82a4659",
-      "company": "Citadel",
-      "title": "Trader: Fixed Income & Macro Rotational Trader - Intern (US)",
-      "location": "Greenwich, Miami +1",
-      "url": "https://www.citadel.com/careers/details/trader-fixed-income-macro-rotational-trader-intern-us/",
-      "source": "QuantScraper 2027",
-      "track": "Quant",
-      "term": "Term unspecified",
-      "confidence": "Possible",
-      "score": 30,
-      "sources": [
-        "QuantScraper 2027"
-      ],
-      "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
-    },
-    {
-      "id": "010eafb88992a541591a",
-      "company": "Da Vinci",
-      "title": "Quant Trading Intern",
-      "location": "Amsterdam",
-      "url": "https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4196845101",
-      "source": "QuantScraper 2027",
-      "track": "Quant",
-      "term": "Term unspecified",
-      "confidence": "Possible",
-      "score": 30,
-      "sources": [
-        "QuantScraper 2027"
-      ],
-      "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
-    },
-    {
-      "id": "a02fc80d003eba04e33a",
-      "company": "Jump Trading",
-      "title": "Campus Quantitative Trader (Intern)",
-      "location": "Hong Kong, Shanghai",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027922",
-      "source": "QuantScraper 2027",
-      "track": "Quant",
-      "term": "Term unspecified",
-      "confidence": "Possible",
-      "score": 30,
-      "sources": [
-        "QuantScraper 2027"
-      ],
-      "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
-    },
-    {
-      "id": "10802aae1c233ec6b679",
-      "company": "Jump Trading",
-      "title": "Campus Quantitative Trader (Intern)",
-      "location": "Singapore",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027941",
-      "source": "QuantScraper 2027",
-      "track": "Quant",
-      "term": "Term unspecified",
-      "confidence": "Possible",
-      "score": 30,
-      "sources": [
-        "QuantScraper 2027"
-      ],
-      "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
-    },
-    {
-      "id": "f011667dd000b690e4c0",
-      "company": "Virtu Financial",
-      "title": "2027 Internship - Quantitative Trading",
-      "location": "Singapore",
-      "url": "https://job-boards.greenhouse.io/virtu/jobs/5208637002",
-      "source": "QuantScraper 2027",
-      "track": "Quant",
-      "term": "Term unspecified",
-      "confidence": "Possible",
-      "score": 30,
-      "sources": [
-        "QuantScraper 2027"
-      ],
-      "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
-    },
-    {
-      "id": "ef2795415dcbbc10f457",
-      "company": "Jump Trading",
-      "title": "Campus Quantitative Trader (Intern)",
-      "location": "London, Amsterdam",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8050772",
-      "source": "QuantScraper 2027",
-      "track": "Quant",
-      "term": "Term unspecified",
-      "confidence": "Possible",
-      "score": 30,
-      "sources": [
-        "QuantScraper 2027"
-      ],
-      "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
-    },
-    {
-      "id": "823616566ba4b9e1e02d",
-      "company": "Virtu Financial",
-      "title": "2027 Internship - Quantitative Trading",
-      "location": "Dublin",
-      "url": "https://job-boards.greenhouse.io/virtu/jobs/8547254002",
-      "source": "QuantScraper 2027",
-      "track": "Quant",
-      "term": "Term unspecified",
-      "confidence": "Possible",
-      "score": 30,
-      "sources": [
-        "QuantScraper 2027"
-      ],
-      "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
-    },
-    {
-      "id": "a146755aeeb2219a81ca",
-      "company": "Citadel",
-      "title": "Investment & Trading - Intern (Europe)",
-      "location": "Amsterdam, London +1",
-      "url": "https://www.citadel.com/careers/details/investment-trading-intern-europe/",
-      "source": "QuantScraper 2027",
-      "track": "Quant",
-      "term": "Term unspecified",
-      "confidence": "Possible",
-      "score": 30,
-      "sources": [
-        "QuantScraper 2027"
-      ],
-      "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
-    },
-    {
-      "id": "d0ef842744eec0a835b5",
-      "company": "Citadel",
-      "title": "Quantitative Trader: Equity Quantitative Research - Intern (US)",
-      "location": "Greenwich, Miami +1",
-      "url": "https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-intern-us/",
-      "source": "QuantScraper 2027",
-      "track": "Quant",
-      "term": "Term unspecified",
-      "confidence": "Possible",
-      "score": 30,
-      "sources": [
-        "QuantScraper 2027"
-      ],
-      "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
-    },
-    {
-      "id": "c2ec837cb15c086ecf03",
-      "company": "Citadel Securities",
-      "title": "Quantitative Trading - Intern (Asia)",
-      "location": "Hong Kong",
-      "url": "https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-asia/",
-      "source": "QuantScraper 2027",
-      "track": "Quant",
-      "term": "Term unspecified",
-      "confidence": "Possible",
-      "score": 30,
-      "sources": [
-        "QuantScraper 2027"
-      ],
-      "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
-    },
-    {
-      "id": "c3a99082ee7222c4b927",
-      "company": "Citadel Securities",
-      "title": "Quantitative Trading - Intern (Europe)",
-      "location": "Amsterdam, London +1",
-      "url": "https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-europe/",
-      "source": "QuantScraper 2027",
-      "track": "Quant",
-      "term": "Term unspecified",
-      "confidence": "Possible",
-      "score": 30,
-      "sources": [
-        "QuantScraper 2027"
-      ],
-      "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
-    },
-    {
-      "id": "b9b8c6bd973d72846cff",
-      "company": "Citadel Securities",
-      "title": "Rates Trading - Intern (Europe)",
-      "location": "Amsterdam, London +1",
-      "url": "https://www.citadelsecurities.com/careers/details/rates-trading-intern-europe/",
-      "source": "QuantScraper 2027",
-      "track": "Quant",
-      "term": "Term unspecified",
-      "confidence": "Possible",
-      "score": 30,
-      "sources": [
-        "QuantScraper 2027"
-      ],
-      "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
-    },
-    {
-      "id": "34eece2f466de59ecd6b",
-      "company": "DRW",
-      "title": "Quantitative Trading Analyst Intern",
-      "location": "London",
-      "url": "https://www.drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-3454789",
-      "source": "QuantScraper 2027",
-      "track": "Quant",
-      "term": "Term unspecified",
-      "confidence": "Possible",
-      "score": 30,
-      "sources": [
-        "QuantScraper 2027"
-      ],
-      "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
-    },
-    {
-      "id": "d23512980a2aeb671b31",
-      "company": "IMC",
-      "title": "Quantitative Trader Intern",
-      "location": "Amsterdam",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4936262101",
-      "source": "QuantScraper 2027",
-      "track": "Quant",
-      "term": "Term unspecified",
-      "confidence": "Possible",
-      "score": 30,
-      "sources": [
-        "QuantScraper 2027",
-        "IMC Trading"
-      ],
-      "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
-    },
-    {
-      "id": "383c5ba2ea1c5d0df307",
-      "company": "IMC",
-      "title": "Quantitative Trader Intern 2027",
-      "location": "Hong Kong",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4941205101",
-      "source": "QuantScraper 2027",
-      "track": "Quant",
-      "term": "Term unspecified",
-      "confidence": "Possible",
-      "score": 30,
-      "sources": [
-        "QuantScraper 2027",
-        "IMC Trading"
-      ],
-      "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "ef2a416ba63719452f81",
@@ -991,14 +734,32 @@
         "IMC Trading"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
-      "id": "725054aecc0fda4d0a2b",
-      "company": "Optiver",
-      "title": "Quantitative Trading Internship (2027 Start)",
+      "id": "d23512980a2aeb671b31",
+      "company": "IMC",
+      "title": "Quantitative Trader Intern",
       "location": "Amsterdam",
-      "url": "https://www.optiver.com/join-us/jobs/trading/amsterdam/quantitative-trading-internship-2027-start/",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4936262101",
+      "source": "QuantScraper 2027",
+      "track": "Quant",
+      "term": "Term unspecified",
+      "confidence": "Possible",
+      "score": 30,
+      "sources": [
+        "QuantScraper 2027",
+        "IMC Trading"
+      ],
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": false
+    },
+    {
+      "id": "b3199e83b7fed82a4659",
+      "company": "Citadel",
+      "title": "Trader: Fixed Income & Macro Rotational Trader - Intern (US)",
+      "location": "Greenwich, Miami +1",
+      "url": "https://www.citadel.com/careers/details/trader-fixed-income-macro-rotational-trader-intern-us/",
       "source": "QuantScraper 2027",
       "track": "Quant",
       "term": "Term unspecified",
@@ -1008,7 +769,229 @@
         "QuantScraper 2027"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "id": "010eafb88992a541591a",
+      "company": "Da Vinci",
+      "title": "Quant Trading Intern",
+      "location": "Amsterdam",
+      "url": "https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4196845101",
+      "source": "QuantScraper 2027",
+      "track": "Quant",
+      "term": "Term unspecified",
+      "confidence": "Possible",
+      "score": 30,
+      "sources": [
+        "QuantScraper 2027"
+      ],
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": false
+    },
+    {
+      "id": "a02fc80d003eba04e33a",
+      "company": "Jump Trading",
+      "title": "Campus Quantitative Trader (Intern)",
+      "location": "Hong Kong, Shanghai",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027922",
+      "source": "QuantScraper 2027",
+      "track": "Quant",
+      "term": "Term unspecified",
+      "confidence": "Possible",
+      "score": 30,
+      "sources": [
+        "QuantScraper 2027"
+      ],
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": false
+    },
+    {
+      "id": "10802aae1c233ec6b679",
+      "company": "Jump Trading",
+      "title": "Campus Quantitative Trader (Intern)",
+      "location": "Singapore",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027941",
+      "source": "QuantScraper 2027",
+      "track": "Quant",
+      "term": "Term unspecified",
+      "confidence": "Possible",
+      "score": 30,
+      "sources": [
+        "QuantScraper 2027"
+      ],
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": false
+    },
+    {
+      "id": "f011667dd000b690e4c0",
+      "company": "Virtu Financial",
+      "title": "2027 Internship - Quantitative Trading",
+      "location": "Singapore",
+      "url": "https://job-boards.greenhouse.io/virtu/jobs/5208637002",
+      "source": "QuantScraper 2027",
+      "track": "Quant",
+      "term": "Term unspecified",
+      "confidence": "Possible",
+      "score": 30,
+      "sources": [
+        "QuantScraper 2027"
+      ],
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": false
+    },
+    {
+      "id": "ef2795415dcbbc10f457",
+      "company": "Jump Trading",
+      "title": "Campus Quantitative Trader (Intern)",
+      "location": "London, Amsterdam",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8050772",
+      "source": "QuantScraper 2027",
+      "track": "Quant",
+      "term": "Term unspecified",
+      "confidence": "Possible",
+      "score": 30,
+      "sources": [
+        "QuantScraper 2027"
+      ],
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": false
+    },
+    {
+      "id": "823616566ba4b9e1e02d",
+      "company": "Virtu Financial",
+      "title": "2027 Internship - Quantitative Trading",
+      "location": "Dublin",
+      "url": "https://job-boards.greenhouse.io/virtu/jobs/8547254002",
+      "source": "QuantScraper 2027",
+      "track": "Quant",
+      "term": "Term unspecified",
+      "confidence": "Possible",
+      "score": 30,
+      "sources": [
+        "QuantScraper 2027"
+      ],
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": false
+    },
+    {
+      "id": "a146755aeeb2219a81ca",
+      "company": "Citadel",
+      "title": "Investment & Trading - Intern (Europe)",
+      "location": "Amsterdam, London +1",
+      "url": "https://www.citadel.com/careers/details/investment-trading-intern-europe/",
+      "source": "QuantScraper 2027",
+      "track": "Quant",
+      "term": "Term unspecified",
+      "confidence": "Possible",
+      "score": 30,
+      "sources": [
+        "QuantScraper 2027"
+      ],
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": false
+    },
+    {
+      "id": "d0ef842744eec0a835b5",
+      "company": "Citadel",
+      "title": "Quantitative Trader: Equity Quantitative Research - Intern (US)",
+      "location": "Greenwich, Miami +1",
+      "url": "https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-intern-us/",
+      "source": "QuantScraper 2027",
+      "track": "Quant",
+      "term": "Term unspecified",
+      "confidence": "Possible",
+      "score": 30,
+      "sources": [
+        "QuantScraper 2027"
+      ],
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": false
+    },
+    {
+      "id": "c2ec837cb15c086ecf03",
+      "company": "Citadel Securities",
+      "title": "Quantitative Trading - Intern (Asia)",
+      "location": "Hong Kong",
+      "url": "https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-asia/",
+      "source": "QuantScraper 2027",
+      "track": "Quant",
+      "term": "Term unspecified",
+      "confidence": "Possible",
+      "score": 30,
+      "sources": [
+        "QuantScraper 2027"
+      ],
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": false
+    },
+    {
+      "id": "c3a99082ee7222c4b927",
+      "company": "Citadel Securities",
+      "title": "Quantitative Trading - Intern (Europe)",
+      "location": "Amsterdam, London +1",
+      "url": "https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-europe/",
+      "source": "QuantScraper 2027",
+      "track": "Quant",
+      "term": "Term unspecified",
+      "confidence": "Possible",
+      "score": 30,
+      "sources": [
+        "QuantScraper 2027"
+      ],
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": false
+    },
+    {
+      "id": "b9b8c6bd973d72846cff",
+      "company": "Citadel Securities",
+      "title": "Rates Trading - Intern (Europe)",
+      "location": "Amsterdam, London +1",
+      "url": "https://www.citadelsecurities.com/careers/details/rates-trading-intern-europe/",
+      "source": "QuantScraper 2027",
+      "track": "Quant",
+      "term": "Term unspecified",
+      "confidence": "Possible",
+      "score": 30,
+      "sources": [
+        "QuantScraper 2027"
+      ],
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": false
+    },
+    {
+      "id": "34eece2f466de59ecd6b",
+      "company": "DRW",
+      "title": "Quantitative Trading Analyst Intern",
+      "location": "London",
+      "url": "https://www.drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-3454789",
+      "source": "QuantScraper 2027",
+      "track": "Quant",
+      "term": "Term unspecified",
+      "confidence": "Possible",
+      "score": 30,
+      "sources": [
+        "QuantScraper 2027"
+      ],
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": false
+    },
+    {
+      "id": "383c5ba2ea1c5d0df307",
+      "company": "IMC",
+      "title": "Quantitative Trader Intern 2027",
+      "location": "Hong Kong",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4941205101",
+      "source": "QuantScraper 2027",
+      "track": "Quant",
+      "term": "Term unspecified",
+      "confidence": "Possible",
+      "score": 30,
+      "sources": [
+        "QuantScraper 2027",
+        "IMC Trading"
+      ],
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": false
     },
     {
       "id": "8ffe6614f0a17c4bce0d",
@@ -1025,7 +1008,7 @@
         "QuantScraper 2027"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "f1e22f12a3ac11dbb0ac",
@@ -1042,7 +1025,7 @@
         "QuantScraper 2027"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "f4e7292e42cddcf70e7e",
@@ -1059,7 +1042,7 @@
         "2027 US Internship List"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "36efd01991f9cb06692d",
@@ -1076,7 +1059,7 @@
         "2027 US Internship List"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "d83f6c740c53d0619398",
@@ -1093,7 +1076,7 @@
         "2027 US Internship List"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3ed3d204de52e1413efb",
@@ -1110,7 +1093,7 @@
         "2027 US Internship List"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "db6adbcb5ed2a583ca5f",
@@ -1127,7 +1110,7 @@
         "Point72"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "17ffa0b2d18c37ad2d62",
@@ -1144,7 +1127,7 @@
         "IMC Trading"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "777868d424d967d443e0",
@@ -1161,7 +1144,7 @@
         "Man Group"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "61340cad16a0223850af",
@@ -1178,7 +1161,7 @@
         "2027 US Internship List"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "c2d55e3f21eaaa68bce5",
@@ -1195,7 +1178,7 @@
         "2027 US Internship List"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "ae7a1ff1dad3abe77581",
@@ -1212,7 +1195,7 @@
         "2027 US Internship List"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "1aadcf7788fd605db309",
@@ -1229,7 +1212,7 @@
         "2027 US Internship List"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "500cb3104bde1bfe943e",
@@ -1246,7 +1229,7 @@
         "2027 US Internship List"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "a7410cab7089999755ab",
@@ -1263,7 +1246,7 @@
         "2027 US Internship List"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "160f6b2c643f5721d365",
@@ -1280,7 +1263,7 @@
         "2027 US Internship List"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "36b41c952f124e923ad7",
@@ -1297,7 +1280,7 @@
         "2027 US Internship List"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "84ef11bbc09d96d55cf6",
@@ -1314,7 +1297,7 @@
         "2027 US Internship List"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "002897b2f1db63702b45",
@@ -1331,7 +1314,7 @@
         "2027 US Internship List"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "12de48adbd3e6349e57c",
@@ -1348,7 +1331,7 @@
         "2027 US Internship List"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "264fbecde6c02414f990",
@@ -1365,7 +1348,7 @@
         "Neuralink"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "71497bbd8451ee685d16",
@@ -1382,7 +1365,7 @@
         "Neuralink"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "2d2a91c22406d38e1124",
@@ -1399,7 +1382,7 @@
         "Neuralink"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "d598511fa42e39329f62",
@@ -1416,7 +1399,7 @@
         "Neuralink"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "9f21b60061fe216d99f8",
@@ -1433,7 +1416,7 @@
         "Neuralink"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "0f559785eecd93d062d7",
@@ -1450,7 +1433,7 @@
         "IMC Trading"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "9f26785cdfa0098afd78",
@@ -1467,14 +1450,14 @@
         "IMC Trading"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": true
+      "is_new": false
     }
   ],
   "sources": [
     {
       "name": "QuantScraper 2027",
       "status": "OK",
-      "matches": 28
+      "matches": 27
     },
     {
       "name": "2027 US Internship List",
@@ -1533,12 +1516,12 @@
     }
   ],
   "summary": {
-    "total": 86,
+    "total": 85,
     "swe": 39,
-    "quant": 47,
+    "quant": 46,
     "confirmed": 18,
-    "possible": 68,
-    "new_this_week": 86
+    "possible": 67,
+    "new_this_week": 85
   },
   "message": "Matches are automatically classified, not independently verified as open or eligible. Check each posting before applying."
 }

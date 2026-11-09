@@ -109,8 +109,32 @@
   ],
   "snapshots": {
     "github_quant:QuantScraper 2027:https://raw.githubusercontent.com/quant-scraper/Quant-Internships-New-Grad-2027/main/README.md": {
-      "checked_at": "2026-11-09T06:38:19+00:00",
+      "checked_at": "2026-11-09T17:35:33+00:00",
       "jobs": [
+        {
+          "id": "ef2a416ba63719452f81",
+          "company": "IMC",
+          "title": "Trader Intern",
+          "location": "Amsterdam",
+          "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4939846101",
+          "source": "QuantScraper 2027",
+          "track": "Quant",
+          "term": "Term unspecified",
+          "confidence": "Possible",
+          "score": 30
+        },
+        {
+          "id": "d23512980a2aeb671b31",
+          "company": "IMC",
+          "title": "Quantitative Trader Intern",
+          "location": "Amsterdam",
+          "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4936262101",
+          "source": "QuantScraper 2027",
+          "track": "Quant",
+          "term": "Term unspecified",
+          "confidence": "Possible",
+          "score": 30
+        },
         {
           "id": "7474afa8374bffc32f68",
           "company": "Man Group",
@@ -376,47 +400,11 @@
           "score": 40
         },
         {
-          "id": "d23512980a2aeb671b31",
-          "company": "IMC",
-          "title": "Quantitative Trader Intern",
-          "location": "Amsterdam",
-          "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4936262101",
-          "source": "QuantScraper 2027",
-          "track": "Quant",
-          "term": "Term unspecified",
-          "confidence": "Possible",
-          "score": 30
-        },
-        {
           "id": "383c5ba2ea1c5d0df307",
           "company": "IMC",
           "title": "Quantitative Trader Intern 2027",
           "location": "Hong Kong",
           "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4941205101",
-          "source": "QuantScraper 2027",
-          "track": "Quant",
-          "term": "Term unspecified",
-          "confidence": "Possible",
-          "score": 30
-        },
-        {
-          "id": "ef2a416ba63719452f81",
-          "company": "IMC",
-          "title": "Trader Intern",
-          "location": "Amsterdam",
-          "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4939846101",
-          "source": "QuantScraper 2027",
-          "track": "Quant",
-          "term": "Term unspecified",
-          "confidence": "Possible",
-          "score": 30
-        },
-        {
-          "id": "725054aecc0fda4d0a2b",
-          "company": "Optiver",
-          "title": "Quantitative Trading Internship (2027 Start)",
-          "location": "Amsterdam",
-          "url": "https://www.optiver.com/join-us/jobs/trading/amsterdam/quantitative-trading-internship-2027-start/",
           "source": "QuantScraper 2027",
           "track": "Quant",
           "term": "Term unspecified",
@@ -450,7 +438,7 @@
       ]
     },
     "github_general:2027 US Internship List:https://raw.githubusercontent.com/sndsh404/summer-2027-internships/main/README.md": {
-      "checked_at": "2026-11-09T06:38:19+00:00",
+      "checked_at": "2026-11-09T17:35:33+00:00",
       "jobs": [
         {
           "id": "61340cad16a0223850af",
@@ -899,7 +887,7 @@
       ]
     },
     "lever:Belvedere Trading:belvederetrading": {
-      "checked_at": "2026-11-09T06:38:19+00:00",
+      "checked_at": "2026-11-09T17:35:33+00:00",
       "jobs": [
         {
           "id": "28f6d11fa39ee34b83b4",
@@ -916,7 +904,7 @@
       ]
     },
     "lever:QuantCo:quantco-": {
-      "checked_at": "2026-11-09T06:38:19+00:00",
+      "checked_at": "2026-11-09T17:35:33+00:00",
       "jobs": [
         {
           "id": "5ced777b43bdc3725530",
@@ -933,7 +921,7 @@
       ]
     },
     "greenhouse:Point72:point72": {
-      "checked_at": "2026-11-09T06:38:19+00:00",
+      "checked_at": "2026-11-09T17:35:33+00:00",
       "jobs": [
         {
           "id": "bb700e5e7fcb1310ad0d",
@@ -1022,11 +1010,11 @@
       ]
     },
     "greenhouse:Chicago Trading Company:ctccampusboard": {
-      "checked_at": "2026-11-09T06:38:19+00:00",
+      "checked_at": "2026-11-09T17:35:33+00:00",
       "jobs": []
     },
     "greenhouse:Flow Traders:flowtraders": {
-      "checked_at": "2026-11-09T06:38:19+00:00",
+      "checked_at": "2026-11-09T17:35:33+00:00",
       "jobs": [
         {
           "id": "a111434a59babaf98f9c",
@@ -1043,11 +1031,11 @@
       ]
     },
     "greenhouse:The Trade Desk:thetradedesk": {
-      "checked_at": "2026-11-09T06:38:19+00:00",
+      "checked_at": "2026-11-09T17:35:33+00:00",
       "jobs": []
     },
     "greenhouse:Neuralink:neuralink": {
-      "checked_at": "2026-11-09T06:38:19+00:00",
+      "checked_at": "2026-11-09T17:35:33+00:00",
       "jobs": [
         {
           "id": "8e61c560df45774acf66",
@@ -1136,7 +1124,7 @@
       ]
     },
     "greenhouse:IMC Trading:imc": {
-      "checked_at": "2026-11-09T06:38:19+00:00",
+      "checked_at": "2026-11-09T17:35:33+00:00",
       "jobs": [
         {
           "id": "17ffa0b2d18c37ad2d62",
@@ -1213,7 +1201,7 @@
       ]
     },
     "greenhouse:Man Group:mangroup": {
-      "checked_at": "2026-11-09T06:38:19+00:00",
+      "checked_at": "2026-11-09T17:35:33+00:00",
       "jobs": [
         {
           "id": "777868d424d967d443e0",
@@ -1242,7 +1230,7 @@
       ]
     },
     "ashby:Netic:netic": {
-      "checked_at": "2026-11-09T06:38:19+00:00",
+      "checked_at": "2026-11-09T17:35:33+00:00",
       "jobs": [
         {
           "id": "382b11d324d95050e55c",
@@ -1271,5 +1259,5 @@
       ]
     }
   },
-  "last_checked_at": "2026-11-09T06:38:19+00:00"
+  "last_checked_at": "2026-11-09T17:35:33+00:00"
 }
