@@ -1,0 +1,218 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Off-Cycle Radar — find spring, fall and winter software and quantitative internships." />
+  <title>Off-Cycle Radar — SWE & Quant Internships</title>
+  <style>
+    :root { color-scheme: dark; --bg:#0a0d12; --panel:#11161f; --panel2:#151b25; --edge:#273040; --ink:#f0f4fb; --muted:#8895a7; --bright:#d6fff0; --accent:#5af0bd; --blue:#83b5ff; --gold:#e8c788; --danger:#e7a5a5; }
+    *{box-sizing:border-box}
+    html{scroll-behavior:smooth}
+    body{margin:0;background:radial-gradient(ellipse 650px 460px at 72% -100px,rgba(57,128,107,.16),transparent 80%),var(--bg);color:var(--ink);font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;font-size:14px}
+    button,input,select{font:inherit}
+    button{cursor:pointer}
+    a{color:inherit;text-decoration:none}
+    .shell{max-width:1192px;margin:0 auto;padding:0 29px}
+    .nav{height:83px;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid #222b36}
+    .brand{display:flex;align-items:center;gap:14px;font-weight:780;letter-spacing:-.4px;font-size:17px}
+    .brandmark{width:36px;height:36px;border:1px solid #2c6d5d;border-radius:11px;background:#14271f;display:grid;place-items:center;position:relative}
+    .brandmark:before{content:"";position:absolute;inset:9px;border:1px solid #4d9e80;border-radius:50%}
+    .brandmark:after{content:"";width:5px;height:5px;background:var(--accent);border-radius:50%;position:absolute;left:17px;top:12px;box-shadow:0 0 13px var(--accent)}
+    .brand span:last-child{color:var(--accent)}
+    .navright{display:flex;align-items:center;gap:19px;color:var(--muted);font-size:12px}
+    .live{display:flex;align-items:center;gap:8px;font-weight:650}
+    .dot{height:8px;width:8px;background:var(--accent);border-radius:50%;box-shadow:0 0 0 4px rgba(90,240,189,.11)}
+    .updated{font-variant-numeric:tabular-nums}
+    .hero{padding:67px 0 38px;display:flex;align-items:flex-end;justify-content:space-between;gap:28px}
+    .eyebrow{letter-spacing:2.2px;text-transform:uppercase;color:var(--accent);font-size:11px;font-weight:750;margin-bottom:15px;display:flex;align-items:center;gap:10px}
+    .eyebrow:before{content:"";width:21px;height:1px;background:var(--accent)}
+    h1{font-size:clamp(38px,5.1vw,64px);line-height:1.06;letter-spacing:-2.6px;margin:0;font-weight:760}
+    h1 span{color:var(--accent)}
+    .intro{line-height:1.75;color:#9caabd;font-size:15px;max-width:640px;margin:19px 0 0}
+    .hero-art{position:relative;width:190px;height:180px;flex:none;opacity:.9;display:grid;place-items:center}
+    .ring{position:absolute;width:160px;height:160px;border:1px solid rgba(90,240,189,.15);border-radius:50%}
+    .ring:nth-child(2){width:108px;height:108px}.ring:nth-child(3){width:54px;height:54px}
+    .ring:before{content:"";position:absolute;width:1px;height:100%;background:rgba(90,240,189,.1);left:50%;top:0}
+    .ring:after{content:"";position:absolute;width:100%;height:1px;background:rgba(90,240,189,.1);left:0;top:50%}
+    .sweep{width:160px;height:160px;border-radius:50%;background:conic-gradient(from 0deg, transparent 72%,rgba(90,240,189,.17) 95%,rgba(90,240,189,.03));animation:spin 11s linear infinite}
+    .pulse{position:absolute;top:44px;right:57px;width:7px;height:7px;border-radius:50%;background:var(--accent);box-shadow:0 0 20px 4px rgba(90,240,189,.4)}
+    @keyframes spin{to{transform:rotate(360deg)}}
+    .stats{display:grid;grid-template-columns:repeat(4,1fr);gap:13px;margin:19px 0 43px}
+    .stat{background:linear-gradient(135deg,rgba(21,28,37,.96),rgba(16,21,29,.95));border:1px solid var(--edge);border-radius:13px;padding:20px 21px 21px;min-height:113px}
+    .stat-top{font-size:11px;font-weight:650;letter-spacing:.9px;text-transform:uppercase;color:var(--muted);display:flex;justify-content:space-between;align-items:center}
+    .stat-top svg{opacity:.58}
+    .stat-num{font-size:35px;line-height:1.1;font-weight:730;letter-spacing:-1.4px;margin-top:15px;font-variant-numeric:tabular-nums}
+    .stat:first-child .stat-num{color:var(--accent)}
+    .section-top{display:flex;justify-content:space-between;align-items:center;gap:16px;margin-bottom:20px}
+    h2{font-size:21px;letter-spacing:-.45px;margin:0}
+    .section-note{margin:6px 0 0;color:var(--muted);font-size:13px}
+    .outline{background:transparent;border:1px solid #364252;color:#dae4ee;padding:10px 15px;border-radius:8px;font-weight:600;transition:background .15s}
+    .outline:hover{background:#1a2430}
+    .outline.active{border-color:#38785f;color:var(--accent);background:#11281f}
+    .controls{background:#10151d;border:1px solid var(--edge);border-radius:13px;padding:16px;margin-bottom:21px}
+    .filterline{display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+    .search{display:flex;align-items:center;gap:11px;min-width:235px;flex:1.5;background:#0c1118;border:1px solid #2d3947;border-radius:8px;padding:0 13px;color:#8c9ba9}
+    .search input{min-width:0;border:0;outline:0;background:transparent;color:var(--ink);height:44px;flex:1}
+    .search input::placeholder{color:#697789}
+    select{min-width:145px;background:#0c1118;color:#dce5ed;border:1px solid #2d3947;border-radius:8px;height:45px;padding:0 34px 0 13px;outline:0}
+    select:focus,.search:focus-within{border-color:#3e8f76}
+    .chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}
+    .chip{border:1px solid #2d3947;border-radius:999px;background:transparent;color:#a2afbd;padding:7px 13px;font-size:12px;font-weight:630}
+    .chip:hover{color:white}
+    .chip.selected{background:#17352b;color:var(--accent);border-color:#346650}
+    .bar{display:flex;justify-content:space-between;align-items:center;margin:0 0 14px;padding:0 2px;color:#94a2b3;font-size:12px}
+    .result-count{color:#d3dfeb;font-weight:680}
+    .jobgrid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+    .job{background:var(--panel);border:1px solid var(--edge);border-radius:12px;padding:22px;display:flex;flex-direction:column;min-height:237px;transition:border-color .18s, transform .18s}
+    .job:hover{border-color:#3e695e;transform:translateY(-2px)}
+    .job-top{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:18px}
+    .company{display:flex;align-items:center;gap:10px;color:#a9b8c7;font-weight:700;font-size:13px}
+    .companymark{width:32px;height:32px;border-radius:8px;background:#1c2e35;border:1px solid #2d474a;color:#b0e9d7;display:grid;place-items:center;font-size:13px;font-weight:740}
+    .star{border:0;background:transparent;padding:7px;color:#728094;border-radius:7px;display:grid;place-items:center}
+    .star:hover{background:#26303b;color:#ebcb8a}.star.saved{color:#efc983}
+    .title{font-size:18px;line-height:1.37;letter-spacing:-.3px;font-weight:720;margin:0 0 9px;min-height:49px}
+    .loc{display:flex;align-items:center;gap:7px;color:#91a0b0;font-size:12px}
+    .tags{display:flex;flex-wrap:wrap;gap:6px;margin:20px 0 17px}
+    .tag{display:inline-flex;align-items:center;border-radius:5px;padding:5px 8px;font-size:11px;font-weight:660;background:#1a2835;color:#9ec9f2}
+    .tag.quant{background:#2b2435;color:#d4bbf5}.tag.confirmed{background:#153128;color:#79e1b2}.tag.possible{background:#342d20;color:#e3c18c}
+    .job-bottom{margin-top:auto;display:flex;align-items:center;justify-content:space-between;gap:12px;border-top:1px solid #28313c;padding-top:16px}
+    .source{color:#768698;font-size:11px;line-height:1.5;max-width:60%}
+    .apply{display:inline-flex;align-items:center;gap:9px;color:#0d201a;background:var(--accent);border:1px solid var(--accent);padding:10px 13px;border-radius:7px;font-size:12px;font-weight:800;white-space:nowrap;transition:background .15s}
+    .apply:hover{background:#9cffdc}
+    .empty{border:1px dashed #354154;background:#111822;border-radius:12px;text-align:center;padding:66px 26px;color:#a1aebd;grid-column:1/-1}
+    .empty h3{color:#e7eff6;font-size:18px;margin:14px 0 8px}.empty p{margin:0;line-height:1.65}
+    .info{margin:30px 0 74px;padding:23px 26px;background:#10171e;border:1px solid #273b3a;border-radius:12px;display:grid;grid-template-columns:1fr auto;gap:14px;align-items:center}
+    .info h3{margin:0 0 7px;font-size:15px}.info p{margin:0;color:#91a3ae;line-height:1.7;max-width:780px;font-size:12px}
+    .sources-toggle{background:transparent;border:1px solid #3b514d;color:var(--bright);padding:10px 14px;border-radius:7px;font-size:12px;font-weight:650}
+    .sources{display:none;grid-column:1/-1;border-top:1px solid #283842;padding-top:13px;margin-top:6px}
+    .sources.open{display:block}.sources div{display:inline-block;margin:6px 12px 6px 0;color:#94a5b2;font-size:12px}.sources .ok{color:#78dba7}.sources .bad{color:var(--danger)}
+    footer{padding:25px 0 38px;border-top:1px solid #222c36;display:flex;justify-content:space-between;color:#6c7b8d;font-size:11px;gap:18px;line-height:1.6}
+    @media(max-width:800px){.hero-art{display:none}.stats{grid-template-columns:repeat(2,1fr)}.jobgrid{grid-template-columns:1fr}.hero{padding-top:48px}.shell{padding:0 20px}}
+    @media(max-width:500px){.stats{gap:8px}.stat{padding:16px;min-height:98px}.stat-num{font-size:30px}.nav{height:69px}.navright{gap:7px}.updated{display:none}.hero{padding-top:40px}h1{letter-spacing:-1.5px}.filterline{display:grid;grid-template-columns:1fr 1fr}.search{grid-column:1/-1;min-width:0}select{min-width:0;width:100%}.info{grid-template-columns:1fr}.section-top{align-items:flex-start}.section-top .outline{font-size:11px;padding:9px}}
+  </style>
+</head>
+<body>
+  <div class="shell">
+    <header class="nav">
+      <div class="brand"><div class="brandmark" aria-hidden="true"></div><div>OFF-CYCLE <span>RADAR</span></div></div>
+      <div class="navright"><span class="live"><span class="dot"></span><span id="scan-status">Awaiting first scan</span></span><span id="updated" class="updated"></span></div>
+    </header>
+    <section class="hero">
+      <div>
+        <div class="eyebrow">Internship intelligence / 2027–28</div>
+        <h1>Find your next<br /><span>opportunity.</span></h1>
+        <p class="intro">A focused feed of off-cycle software engineering and quant internships. Spring, fall, winter, and co-op roles — sourced from public career boards and updated automatically.</p>
+      </div>
+      <div class="hero-art" aria-hidden="true"><div class="ring"></div><div class="ring"></div><div class="ring"></div><div class="sweep"></div><div class="pulse"></div></div>
+    </section>
+    <section class="stats" aria-label="Internship statistics">
+      <div class="stat"><div class="stat-top">Total matches <span>↗</span></div><div class="stat-num" id="stat-total">—</div></div>
+      <div class="stat"><div class="stat-top">Software engineering <span>⌘</span></div><div class="stat-num" id="stat-swe">—</div></div>
+      <div class="stat"><div class="stat-top">Quant / trading <span>↗</span></div><div class="stat-num" id="stat-quant">—</div></div>
+      <div class="stat"><div class="stat-top">New this week <span>✳</span></div><div class="stat-num" id="stat-new">—</div></div>
+    </section>
+    <section aria-label="Available internships">
+      <div class="section-top"><div><h2>Opportunity feed</h2><p class="section-note">Filtered for student-level SWE and quant roles, not summer-only internships.</p></div><button class="outline" id="watchlist" aria-pressed="false">☆ Saved roles <span id="saved-count">0</span></button></div>
+      <div class="controls">
+        <div class="filterline">
+          <label class="search" aria-label="Search jobs">
+            <svg width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.9" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m16 16 5 5"/></svg>
+            <input id="search" placeholder="Search company, role, location..." autocomplete="off" />
+          </label>
+          <select id="location" aria-label="Location filter"><option value="all">All locations</option><option value="chicago">Chicago / Illinois</option><option value="new york">New York</option><option value="remote">Remote</option><option value="us">United States (approx.)</option></select>
+          <select id="sort" aria-label="Sort order"><option value="relevance">Most relevant</option><option value="newest">Recently discovered</option><option value="company">Company A–Z</option></select>
+        </div>
+        <div class="chips" id="chips" role="group" aria-label="Internship type">
+          <button class="chip selected" data-filter="all" aria-pressed="true">All roles</button>
+          <button class="chip" data-filter="swe" aria-pressed="false">Software engineering</button>
+          <button class="chip" data-filter="quant" aria-pressed="false">Quant & trading</button>
+          <button class="chip" data-filter="confirmed" aria-pressed="false">Confirmed off-cycle</button>
+          <button class="chip" data-filter="possible" aria-pressed="false">Term unconfirmed</button>
+        </div>
+      </div>
+      <div class="bar"><span><span class="result-count" id="result-count">0 opportunities</span> match your filters</span><span id="result-hint">Links open original applications</span></div>
+      <div class="jobgrid" id="jobs"><div class="empty"><h3>No results yet</h3><p>Run the tracker once to load opportunities into your dashboard.</p></div></div>
+    </section>
+    <aside class="info"><div><h3>How this radar works</h3><p>The scanner checks public company job APIs and curated 2027 internship repositories. “Confirmed” means the text identifies an off-cycle season or co-op; “Term unconfirmed” needs manual verification. Availability, eligibility and dates can change. Saved jobs live only in this browser.</p></div><button class="sources-toggle" id="sources-btn">Source health ▾</button><div class="sources" id="sources"></div></aside>
+    <footer><span>OFF-CYCLE RADAR · PERSONAL JOB MONITOR</span><span>Unofficial tracker. Always verify on the employer's website.</span></footer>
+  </div>
+  <script>
+    'use strict';
+    let data = {jobs: [], sources: [], summary: {}, updated_at: null};
+    let activeFilter = 'all', savedOnly = false;
+    const $ = id => document.getElementById(id);
+    const html = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+    const safeUrl = url => {try {const p=new URL(url); return p.protocol === 'https:' ? p.href : '#'} catch {return '#'}};
+    const readSaved = () => {try{return new Set(JSON.parse(localStorage.getItem('offcycle-saved') || '[]'))}catch{return new Set()}};
+    let saved = readSaved();
+    function isRecent(job) {return job.first_seen && Date.now() - new Date(job.first_seen).getTime() < 7*86400000;}
+    function inUs(s) {
+      const text=String(s).toLowerCase();
+      if(/canada|london|paris|france|germany|berlin|hong kong|singapore|shanghai|amsterdam|dubai|sydney|japan|india|china|uk\b|toronto|vancouver|montreal|zurich|switzerland/.test(text))return false;
+      return /\b[a-z .]+,\s*(?:al|ak|az|ar|ca|co|ct|de|fl|ga|hi|id|il|in|ia|ks|ky|la|me|md|ma|mi|mn|ms|mo|mt|ne|nv|nh|nj|nm|ny|nc|nd|oh|ok|or|pa|ri|sc|sd|tn|tx|ut|vt|va|wa|wv|wi|wy)\b/i.test(s)||/chicago|new york|san francisco|seattle|austin|boston|united states|remote|california|philadelphia|palo alto|san jose|los angeles|atlanta|houston|washington d.c.|bala cynwyd/i.test(s);
+    }
+    function matches(job) {
+      const query = $('search').value.trim().toLowerCase();
+      if (query && ![job.title, job.company, job.location, job.term].join(' ').toLowerCase().includes(query)) return false;
+      if (savedOnly && !saved.has(job.id)) return false;
+      if (activeFilter === 'swe' && job.track !== 'SWE') return false;
+      if (activeFilter === 'quant' && job.track !== 'Quant') return false;
+      if (activeFilter === 'confirmed' && job.confidence !== 'Confirmed') return false;
+      if (activeFilter === 'possible' && job.confidence !== 'Possible') return false;
+      const loc = $('location').value; const text = job.location.toLowerCase();
+      if (loc === 'chicago' && !/chicago|illinois|,\s*il\b/.test(text))return false;
+      if (loc === 'new york' && !/new york|\bnyc\b|,\s*ny\b/.test(text))return false;
+      if (loc === 'remote' && !text.includes('remote'))return false;
+      if (loc === 'us' && !inUs(job.location))return false;
+      return true;
+    }
+    function card(job) {
+      const track=job.track==='Quant'?'quant':'swe';
+      const star=saved.has(job.id);
+      const fresh=isRecent(job)?'<span class="tag confirmed">New this week</span>':'';
+      const source=(job.sources || [job.source]).slice(0,2).join(' · ');
+      return `<article class="job"><div class="job-top"><div class="company"><span class="companymark">${html(job.company.trim()[0]||'?')}</span><span>${html(job.company)}</span></div><button class="star ${star?'saved':''}" data-save="${html(job.id)}" aria-label="${star?'Remove saved job':'Save job'}" title="${star?'Remove saved job':'Save job'}">${star?'★':'☆'}</button></div><h3 class="title">${html(job.title)}</h3><div class="loc"><svg width="14" height="14" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><path d="M20 10c0 5-8 12-8 12S4 15 4 10a8 8 0 1116 0Z"/><circle cx="12" cy="10" r="2.5"/></svg>${html(job.location)}</div><div class="tags"><span class="tag ${track}">${html(job.track)}</span><span class="tag">${html(job.term)}</span><span class="tag ${job.confidence==='Confirmed'?'confirmed':'possible'}">${job.confidence==='Confirmed'?'Off-cycle confirmed':'Verify term'}</span>${fresh}</div><div class="job-bottom"><div class="source">${html(source)}</div><a class="apply" href="${html(safeUrl(job.url))}" target="_blank" rel="noopener noreferrer">View role <span aria-hidden="true">↗</span></a></div></article>`;
+    }
+    function render() {
+      const jobs = data.jobs.filter(matches);
+      const mode = $('sort').value;
+      jobs.sort((a,b)=>mode==='newest'?(new Date(b.first_seen)-new Date(a.first_seen)||b.score-a.score):mode==='company'?a.company.localeCompare(b.company):(b.score-a.score||new Date(b.first_seen)-new Date(a.first_seen)));
+      $('result-count').textContent = `${jobs.length} opportunit${jobs.length===1?'y':'ies'}`;
+      $('saved-count').textContent=saved.size;
+      $('jobs').innerHTML=jobs.length?jobs.map(card).join(''):`<div class="empty"><svg width="38" height="38" fill="none" stroke="#688a83" stroke-width="1.3" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m16 16 5 5"/></svg><h3>${data.updated_at?'No matching internships':'No scan data yet'}</h3><p>${data.updated_at?'Try a broader role, search, or location filter.':'Run python tracker.py scan, then refresh this page.'}</p></div>`;
+    }
+    async function load() {
+      try {
+        const response=await fetch('./jobs.json?ts='+Date.now(),{cache:'no-store'});
+        if (!response.ok) throw Error('HTTP '+response.status);
+        data=await response.json();
+        for(const k of ['total','swe','quant'])$('stat-'+k).textContent=data.summary[k]??0;
+        $('stat-new').textContent=data.summary.new_this_week??0;
+        if(data.updated_at){$('scan-status').textContent='Tracking active';$('updated').textContent='Updated '+new Date(data.updated_at).toLocaleString(undefined,{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'});}
+        else $('scan-status').textContent='Awaiting first scan';
+        $('sources').innerHTML=(data.sources||[]).map(s=>`<div><span class="${s.status==='OK'?'ok':'bad'}">●</span> ${html(s.name)} · ${html(s.status)} · ${Number(s.matches)||0} matches</div>`).join('')||'<div>Sources will appear after the first scan.</div>';
+        render();
+      }catch(err){$('scan-status').textContent='Data unavailable';$('jobs').innerHTML=`<div class="empty"><h3>Cannot load the feed</h3><p>Start a local web server with <code>python -m http.server 8000 --directory docs</code> or enable GitHub Pages. (${html(err.message)})</p></div>`;}
+    }
+    $('search').addEventListener('input',render);
+    $('location').addEventListener('change',render);
+    $('sort').addEventListener('change',render);
+    $('chips').addEventListener('click',e=>{
+      const btn=e.target.closest('[data-filter]');if(!btn)return;
+      activeFilter=btn.dataset.filter;
+      for(const chip of $('chips').querySelectorAll('.chip')){const selected=chip===btn;chip.classList.toggle('selected',selected);chip.setAttribute('aria-pressed',String(selected));}
+      render();
+    });
+    $('watchlist').addEventListener('click',()=>{savedOnly=!savedOnly;$('watchlist').classList.toggle('active',savedOnly);$('watchlist').setAttribute('aria-pressed',String(savedOnly));render();});
+    $('jobs').addEventListener('click',e=>{
+      const btn=e.target.closest('[data-save]');if(!btn)return;
+      const id=btn.dataset.save;if(saved.has(id))saved.delete(id);else saved.add(id);
+      try{localStorage.setItem('offcycle-saved',JSON.stringify([...saved]));}catch{}
+      render();
+    });
+    $('sources-btn').addEventListener('click',()=>{$('sources').classList.toggle('open');});
+    load();
+  </script>
+</body>
+</html>

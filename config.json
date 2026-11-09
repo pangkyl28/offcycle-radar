@@ -1,0 +1,75 @@
+{
+  "target_years": [
+    2027,
+    2028
+  ],
+  "include_possible_offcycle": true,
+  "notify_possible_offcycle": false,
+  "skip_phd_only": true,
+  "max_notifications_per_run": 25,
+  "source_cache_hours": 72,
+  "sources": [
+    {
+      "type": "github_quant",
+      "name": "QuantScraper 2027",
+      "url": "https://raw.githubusercontent.com/quant-scraper/Quant-Internships-New-Grad-2027/main/README.md"
+    },
+    {
+      "type": "github_general",
+      "name": "2027 US Internship List",
+      "url": "https://raw.githubusercontent.com/sndsh404/summer-2027-internships/main/README.md"
+    },
+    {
+      "type": "lever",
+      "name": "Belvedere Trading",
+      "board": "belvederetrading"
+    },
+    {
+      "type": "lever",
+      "name": "QuantCo",
+      "board": "quantco-"
+    },
+    {
+      "type": "greenhouse",
+      "name": "Point72",
+      "board": "point72"
+    },
+    {
+      "type": "greenhouse",
+      "name": "Chicago Trading Company",
+      "board": "ctccampusboard"
+    },
+    {
+      "type": "greenhouse",
+      "name": "Flow Traders",
+      "board": "flowtraders"
+    },
+    {
+      "type": "greenhouse",
+      "name": "The Trade Desk",
+      "board": "thetradedesk"
+    },
+    {
+      "type": "greenhouse",
+      "name": "Neuralink",
+      "board": "neuralink"
+    },
+    {
+      "type": "greenhouse",
+      "name": "IMC Trading",
+      "board": "imc",
+      "region": "eu"
+    },
+    {
+      "type": "greenhouse",
+      "name": "Man Group",
+      "board": "mangroup",
+      "region": "eu"
+    },
+    {
+      "type": "ashby",
+      "name": "Netic",
+      "board": "netic"
+    }
+  ]
+}

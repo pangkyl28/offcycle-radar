@@ -1,0 +1,7 @@
+{
+  "updated_at": null,
+  "jobs": [],
+  "summary": {"total": 0, "swe": 0, "quant": 0, "confirmed": 0, "possible": 0, "new_this_week": 0},
+  "sources": [],
+  "message": "No scan has run yet. Run python tracker.py scan to populate the dashboard."
+}
