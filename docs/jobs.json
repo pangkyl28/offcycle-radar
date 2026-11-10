@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T17:35:33+00:00",
+  "updated_at": "2026-11-10T02:11:12+00:00",
   "jobs": [
     {
       "id": "7474afa8374bffc32f68",
@@ -717,6 +717,23 @@
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
       "is_new": false
+    },
+    {
+      "id": "5088edea507e640f4619",
+      "company": "Millennium",
+      "title": "2027 Quantitative Intern, Dublin (6 Month Internship)",
+      "location": "Dublin",
+      "url": "https://campusjobs.mlp.com/careers/job/755958176965",
+      "source": "QuantScraper 2027",
+      "track": "Quant",
+      "term": "Term unspecified",
+      "confidence": "Possible",
+      "score": 30,
+      "sources": [
+        "QuantScraper 2027"
+      ],
+      "first_seen": "2026-11-10T02:11:12+00:00",
+      "is_new": true
     },
     {
       "id": "ef2a416ba63719452f81",
@@ -1457,7 +1474,7 @@
     {
       "name": "QuantScraper 2027",
       "status": "OK",
-      "matches": 27
+      "matches": 28
     },
     {
       "name": "2027 US Internship List",
@@ -1516,12 +1533,12 @@
     }
   ],
   "summary": {
-    "total": 85,
+    "total": 86,
     "swe": 39,
-    "quant": 46,
+    "quant": 47,
     "confirmed": 18,
-    "possible": 67,
-    "new_this_week": 85
+    "possible": 68,
+    "new_this_week": 86
   },
   "message": "Matches are automatically classified, not independently verified as open or eligible. Check each posting before applying."
 }
