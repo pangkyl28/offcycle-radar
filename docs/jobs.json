@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T15:38:10+00:00",
+  "updated_at": "2026-11-11T00:04:35+00:00",
   "jobs": [
     {
       "id": "7474afa8374bffc32f68",
@@ -391,23 +391,6 @@
       "score": 45,
       "sources": [
         "2027 US Internship List"
-      ],
-      "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": false
-    },
-    {
-      "id": "63896a2786ab96683dcc",
-      "company": "Virtu Financial",
-      "title": "2027 Internship - Quantitative Trading",
-      "location": "Austin, Chicago +1",
-      "url": "https://job-boards.greenhouse.io/virtu/jobs/8624408002",
-      "source": "QuantScraper 2027",
-      "track": "Quant",
-      "term": "Term unspecified",
-      "confidence": "Possible",
-      "score": 40,
-      "sources": [
-        "QuantScraper 2027"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
       "is_new": false
@@ -1474,7 +1457,7 @@
     {
       "name": "QuantScraper 2027",
       "status": "OK",
-      "matches": 28
+      "matches": 27
     },
     {
       "name": "2027 US Internship List",
@@ -1533,12 +1516,12 @@
     }
   ],
   "summary": {
-    "total": 86,
+    "total": 85,
     "swe": 39,
-    "quant": 47,
+    "quant": 46,
     "confirmed": 18,
-    "possible": 68,
-    "new_this_week": 86
+    "possible": 67,
+    "new_this_week": 85
   },
   "message": "Matches are automatically classified, not independently verified as open or eligible. Check each posting before applying."
 }
