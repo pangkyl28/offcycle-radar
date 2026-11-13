@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T00:30:28+00:00",
+  "updated_at": "2026-11-13T15:26:08+00:00",
   "jobs": [
     {
       "id": "7474afa8374bffc32f68",
@@ -716,7 +716,7 @@
         "QuantScraper 2027"
       ],
       "first_seen": "2026-11-13T00:30:28+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "5088edea507e640f4619",
