@@ -86,7 +86,8 @@
     "777868d424d967d443e0": "2026-11-09T06:38:19+00:00",
     "382b11d324d95050e55c": "2026-11-09T06:38:19+00:00",
     "ee7cf0d69fd9adeaff7c": "2026-11-09T06:38:19+00:00",
-    "5088edea507e640f4619": "2026-11-10T02:11:12+00:00"
+    "5088edea507e640f4619": "2026-11-10T02:11:12+00:00",
+    "22ed911626d0368712de": "2026-11-13T00:30:28+00:00"
   },
   "alerted": [
     "1858533abef6e54e0247",
@@ -110,7 +111,7 @@
   ],
   "snapshots": {
     "github_quant:QuantScraper 2027:https://raw.githubusercontent.com/quant-scraper/Quant-Internships-New-Grad-2027/main/README.md": {
-      "checked_at": "2026-11-12T16:00:13+00:00",
+      "checked_at": "2026-11-13T00:30:28+00:00",
       "jobs": [
         {
           "id": "ef2a416ba63719452f81",
@@ -130,6 +131,18 @@
           "title": "Quantitative Trader Intern",
           "location": "Amsterdam",
           "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4936262101",
+          "source": "QuantScraper 2027",
+          "track": "Quant",
+          "term": "Term unspecified",
+          "confidence": "Possible",
+          "score": 30
+        },
+        {
+          "id": "22ed911626d0368712de",
+          "company": "Millennium",
+          "title": "2027 Quantitative Modeler Intern, Tel Aviv",
+          "location": "Tel Aviv",
+          "url": "https://campusjobs.mlp.com/careers/job/755959686260",
           "source": "QuantScraper 2027",
           "track": "Quant",
           "term": "Term unspecified",
@@ -190,18 +203,6 @@
           "title": "Trader: Fixed Income & Macro Rotational Trader - Intern (US)",
           "location": "Greenwich, Miami +1",
           "url": "https://www.citadel.com/careers/details/trader-fixed-income-macro-rotational-trader-intern-us/",
-          "source": "QuantScraper 2027",
-          "track": "Quant",
-          "term": "Term unspecified",
-          "confidence": "Possible",
-          "score": 30
-        },
-        {
-          "id": "010eafb88992a541591a",
-          "company": "Da Vinci",
-          "title": "Quant Trading Intern",
-          "location": "Amsterdam",
-          "url": "https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4196845101",
           "source": "QuantScraper 2027",
           "track": "Quant",
           "term": "Term unspecified",
@@ -377,6 +378,18 @@
           "score": 30
         },
         {
+          "id": "010eafb88992a541591a",
+          "company": "Da Vinci",
+          "title": "Quant Trading Intern",
+          "location": "Amsterdam",
+          "url": "https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4196845101",
+          "source": "QuantScraper 2027",
+          "track": "Quant",
+          "term": "Term unspecified",
+          "confidence": "Possible",
+          "score": 30
+        },
+        {
           "id": "34eece2f466de59ecd6b",
           "company": "DRW",
           "title": "Quantitative Trading Analyst Intern",
@@ -439,7 +452,7 @@
       ]
     },
     "github_general:2027 US Internship List:https://raw.githubusercontent.com/sndsh404/summer-2027-internships/main/README.md": {
-      "checked_at": "2026-11-12T16:00:13+00:00",
+      "checked_at": "2026-11-13T00:30:28+00:00",
       "jobs": [
         {
           "id": "61340cad16a0223850af",
@@ -888,7 +901,7 @@
       ]
     },
     "lever:Belvedere Trading:belvederetrading": {
-      "checked_at": "2026-11-12T16:00:13+00:00",
+      "checked_at": "2026-11-13T00:30:28+00:00",
       "jobs": [
         {
           "id": "28f6d11fa39ee34b83b4",
@@ -905,7 +918,7 @@
       ]
     },
     "lever:QuantCo:quantco-": {
-      "checked_at": "2026-11-12T16:00:13+00:00",
+      "checked_at": "2026-11-13T00:30:28+00:00",
       "jobs": [
         {
           "id": "5ced777b43bdc3725530",
@@ -922,7 +935,7 @@
       ]
     },
     "greenhouse:Point72:point72": {
-      "checked_at": "2026-11-12T16:00:13+00:00",
+      "checked_at": "2026-11-13T00:30:28+00:00",
       "jobs": [
         {
           "id": "bb700e5e7fcb1310ad0d",
@@ -1011,11 +1024,11 @@
       ]
     },
     "greenhouse:Chicago Trading Company:ctccampusboard": {
-      "checked_at": "2026-11-12T16:00:13+00:00",
+      "checked_at": "2026-11-13T00:30:28+00:00",
       "jobs": []
     },
     "greenhouse:Flow Traders:flowtraders": {
-      "checked_at": "2026-11-12T16:00:13+00:00",
+      "checked_at": "2026-11-13T00:30:28+00:00",
       "jobs": [
         {
           "id": "a111434a59babaf98f9c",
@@ -1032,11 +1045,11 @@
       ]
     },
     "greenhouse:The Trade Desk:thetradedesk": {
-      "checked_at": "2026-11-12T16:00:13+00:00",
+      "checked_at": "2026-11-13T00:30:28+00:00",
       "jobs": []
     },
     "greenhouse:Neuralink:neuralink": {
-      "checked_at": "2026-11-12T16:00:13+00:00",
+      "checked_at": "2026-11-13T00:30:28+00:00",
       "jobs": [
         {
           "id": "8e61c560df45774acf66",
@@ -1125,7 +1138,7 @@
       ]
     },
     "greenhouse:IMC Trading:imc": {
-      "checked_at": "2026-11-12T16:00:13+00:00",
+      "checked_at": "2026-11-13T00:30:28+00:00",
       "jobs": [
         {
           "id": "17ffa0b2d18c37ad2d62",
@@ -1202,7 +1215,7 @@
       ]
     },
     "greenhouse:Man Group:mangroup": {
-      "checked_at": "2026-11-12T16:00:13+00:00",
+      "checked_at": "2026-11-13T00:30:28+00:00",
       "jobs": [
         {
           "id": "777868d424d967d443e0",
@@ -1231,7 +1244,7 @@
       ]
     },
     "ashby:Netic:netic": {
-      "checked_at": "2026-11-12T16:00:13+00:00",
+      "checked_at": "2026-11-13T00:30:28+00:00",
       "jobs": [
         {
           "id": "382b11d324d95050e55c",
@@ -1260,5 +1273,5 @@
       ]
     }
   },
-  "last_checked_at": "2026-11-12T16:00:13+00:00"
+  "last_checked_at": "2026-11-13T00:30:28+00:00"
 }
