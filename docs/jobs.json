@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T23:24:01+00:00",
+  "updated_at": "2026-11-16T17:05:23+00:00",
   "jobs": [
     {
       "id": "7474afa8374bffc32f68",
@@ -700,6 +700,23 @@
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
       "is_new": false
+    },
+    {
+      "id": "5423e0a1bd757dd38101",
+      "company": "Susquehanna International Group",
+      "title": "Quantitative Trader Internship: November 2027",
+      "location": "Sydney",
+      "url": "https://careers.sig.com/jobs/11194",
+      "source": "QuantScraper 2027",
+      "track": "Quant",
+      "term": "Term unspecified",
+      "confidence": "Possible",
+      "score": 30,
+      "sources": [
+        "QuantScraper 2027"
+      ],
+      "first_seen": "2026-11-16T17:05:23+00:00",
+      "is_new": true
     },
     {
       "id": "22ed911626d0368712de",
@@ -1474,7 +1491,7 @@
     {
       "name": "QuantScraper 2027",
       "status": "OK",
-      "matches": 28
+      "matches": 29
     },
     {
       "name": "2027 US Internship List",
@@ -1533,12 +1550,12 @@
     }
   ],
   "summary": {
-    "total": 86,
+    "total": 87,
     "swe": 39,
-    "quant": 47,
+    "quant": 48,
     "confirmed": 18,
-    "possible": 68,
-    "new_this_week": 86
+    "possible": 69,
+    "new_this_week": 3
   },
   "message": "Matches are automatically classified, not independently verified as open or eligible. Check each posting before applying."
 }
