@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T02:30:12+00:00",
+  "updated_at": "2026-11-17T16:55:02+00:00",
   "jobs": [
     {
       "id": "7474afa8374bffc32f68",
@@ -396,11 +396,11 @@
       "is_new": false
     },
     {
-      "id": "c12bff9c6ce6aafc1026",
-      "company": "Jump Trading",
-      "title": "Campus Quantitative Trader (Intern)",
-      "location": "Chicago, New York",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7848371",
+      "id": "1b099d34e5214bc06712",
+      "company": "Citadel Securities",
+      "title": "Quantitative Trader - Intern (US) (Trading and Research)",
+      "location": "Miami, New York",
+      "url": "https://www.citadelsecurities.com/careers/details/quantitative-trader-intern-us-trading-and-research/",
       "source": "QuantScraper 2027",
       "track": "Quant",
       "term": "Term unspecified",
@@ -413,11 +413,11 @@
       "is_new": false
     },
     {
-      "id": "1b099d34e5214bc06712",
-      "company": "Citadel Securities",
-      "title": "Quantitative Trader - Intern (US) (Trading and Research)",
-      "location": "Miami, New York",
-      "url": "https://www.citadelsecurities.com/careers/details/quantitative-trader-intern-us/",
+      "id": "c12bff9c6ce6aafc1026",
+      "company": "Jump Trading",
+      "title": "Campus Quantitative Trader (Intern)",
+      "location": "Chicago, New York",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7848371",
       "source": "QuantScraper 2027",
       "track": "Quant",
       "term": "Term unspecified",
@@ -702,6 +702,57 @@
       "is_new": false
     },
     {
+      "id": "5e5e3ac13c813710e516",
+      "company": "Citadel Securities",
+      "title": "Rates Trading - Intern (Europe)",
+      "location": "Paris, Amsterdam +1",
+      "url": "https://www.citadelsecurities.com/careers/details/rates-trading-intern-europe/",
+      "source": "QuantScraper 2027",
+      "track": "Quant",
+      "term": "Term unspecified",
+      "confidence": "Possible",
+      "score": 30,
+      "sources": [
+        "QuantScraper 2027"
+      ],
+      "first_seen": "2026-11-17T16:55:02+00:00",
+      "is_new": true
+    },
+    {
+      "id": "7869182853cefb0086c8",
+      "company": "Citadel Securities",
+      "title": "Quantitative Trading - Intern (Europe)",
+      "location": "Paris, Amsterdam +1",
+      "url": "https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-europe/",
+      "source": "QuantScraper 2027",
+      "track": "Quant",
+      "term": "Term unspecified",
+      "confidence": "Possible",
+      "score": 30,
+      "sources": [
+        "QuantScraper 2027"
+      ],
+      "first_seen": "2026-11-17T16:55:02+00:00",
+      "is_new": true
+    },
+    {
+      "id": "c070c93c0ac0f88c0a96",
+      "company": "Citadel",
+      "title": "Investment & Trading - Intern (Europe)",
+      "location": "Paris, Amsterdam +1",
+      "url": "https://www.citadel.com/careers/details/investment-trading-intern-europe/",
+      "source": "QuantScraper 2027",
+      "track": "Quant",
+      "term": "Term unspecified",
+      "confidence": "Possible",
+      "score": 30,
+      "sources": [
+        "QuantScraper 2027"
+      ],
+      "first_seen": "2026-11-17T16:55:02+00:00",
+      "is_new": true
+    },
+    {
       "id": "5423e0a1bd757dd38101",
       "company": "Susquehanna International Group",
       "title": "Quantitative Trader Internship: November 2027",
@@ -874,28 +925,11 @@
       "is_new": false
     },
     {
-      "id": "823616566ba4b9e1e02d",
-      "company": "Virtu Financial",
-      "title": "2027 Internship - Quantitative Trading",
-      "location": "Dublin",
-      "url": "https://job-boards.greenhouse.io/virtu/jobs/8547254002",
-      "source": "QuantScraper 2027",
-      "track": "Quant",
-      "term": "Term unspecified",
-      "confidence": "Possible",
-      "score": 30,
-      "sources": [
-        "QuantScraper 2027"
-      ],
-      "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": false
-    },
-    {
-      "id": "a146755aeeb2219a81ca",
-      "company": "Citadel",
-      "title": "Investment & Trading - Intern (Europe)",
-      "location": "Amsterdam, London +1",
-      "url": "https://www.citadel.com/careers/details/investment-trading-intern-europe/",
+      "id": "c2ec837cb15c086ecf03",
+      "company": "Citadel Securities",
+      "title": "Quantitative Trading - Intern (Asia)",
+      "location": "Hong Kong",
+      "url": "https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-asia/",
       "source": "QuantScraper 2027",
       "track": "Quant",
       "term": "Term unspecified",
@@ -925,45 +959,11 @@
       "is_new": false
     },
     {
-      "id": "c2ec837cb15c086ecf03",
-      "company": "Citadel Securities",
-      "title": "Quantitative Trading - Intern (Asia)",
-      "location": "Hong Kong",
-      "url": "https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-asia/",
-      "source": "QuantScraper 2027",
-      "track": "Quant",
-      "term": "Term unspecified",
-      "confidence": "Possible",
-      "score": 30,
-      "sources": [
-        "QuantScraper 2027"
-      ],
-      "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": false
-    },
-    {
-      "id": "c3a99082ee7222c4b927",
-      "company": "Citadel Securities",
-      "title": "Quantitative Trading - Intern (Europe)",
-      "location": "Amsterdam, London +1",
-      "url": "https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-europe/",
-      "source": "QuantScraper 2027",
-      "track": "Quant",
-      "term": "Term unspecified",
-      "confidence": "Possible",
-      "score": 30,
-      "sources": [
-        "QuantScraper 2027"
-      ],
-      "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": false
-    },
-    {
-      "id": "b9b8c6bd973d72846cff",
-      "company": "Citadel Securities",
-      "title": "Rates Trading - Intern (Europe)",
-      "location": "Amsterdam, London +1",
-      "url": "https://www.citadelsecurities.com/careers/details/rates-trading-intern-europe/",
+      "id": "823616566ba4b9e1e02d",
+      "company": "Virtu Financial",
+      "title": "2027 Internship - Quantitative Trading",
+      "location": "Dublin",
+      "url": "https://job-boards.greenhouse.io/virtu/jobs/8547254002",
       "source": "QuantScraper 2027",
       "track": "Quant",
       "term": "Term unspecified",
@@ -1555,7 +1555,7 @@
     "quant": 48,
     "confirmed": 18,
     "possible": 69,
-    "new_this_week": 2
+    "new_this_week": 5
   },
   "message": "Matches are automatically classified, not independently verified as open or eligible. Check each posting before applying."
 }

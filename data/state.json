@@ -88,7 +88,10 @@
     "ee7cf0d69fd9adeaff7c": "2026-11-09T06:38:19+00:00",
     "5088edea507e640f4619": "2026-11-10T02:11:12+00:00",
     "22ed911626d0368712de": "2026-11-13T00:30:28+00:00",
-    "5423e0a1bd757dd38101": "2026-11-16T17:05:23+00:00"
+    "5423e0a1bd757dd38101": "2026-11-16T17:05:23+00:00",
+    "5e5e3ac13c813710e516": "2026-11-17T16:55:02+00:00",
+    "7869182853cefb0086c8": "2026-11-17T16:55:02+00:00",
+    "c070c93c0ac0f88c0a96": "2026-11-17T16:55:02+00:00"
   },
   "alerted": [
     "1858533abef6e54e0247",
@@ -112,7 +115,7 @@
   ],
   "snapshots": {
     "github_quant:QuantScraper 2027:https://raw.githubusercontent.com/quant-scraper/Quant-Internships-New-Grad-2027/main/README.md": {
-      "checked_at": "2026-11-17T02:30:12+00:00",
+      "checked_at": "2026-11-17T16:55:02+00:00",
       "jobs": [
         {
           "id": "5423e0a1bd757dd38101",
@@ -199,6 +202,42 @@
           "score": 65
         },
         {
+          "id": "5e5e3ac13c813710e516",
+          "company": "Citadel Securities",
+          "title": "Rates Trading - Intern (Europe)",
+          "location": "Paris, Amsterdam +1",
+          "url": "https://www.citadelsecurities.com/careers/details/rates-trading-intern-europe/",
+          "source": "QuantScraper 2027",
+          "track": "Quant",
+          "term": "Term unspecified",
+          "confidence": "Possible",
+          "score": 30
+        },
+        {
+          "id": "7869182853cefb0086c8",
+          "company": "Citadel Securities",
+          "title": "Quantitative Trading - Intern (Europe)",
+          "location": "Paris, Amsterdam +1",
+          "url": "https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-europe/",
+          "source": "QuantScraper 2027",
+          "track": "Quant",
+          "term": "Term unspecified",
+          "confidence": "Possible",
+          "score": 30
+        },
+        {
+          "id": "c070c93c0ac0f88c0a96",
+          "company": "Citadel",
+          "title": "Investment & Trading - Intern (Europe)",
+          "location": "Paris, Amsterdam +1",
+          "url": "https://www.citadel.com/careers/details/investment-trading-intern-europe/",
+          "source": "QuantScraper 2027",
+          "track": "Quant",
+          "term": "Term unspecified",
+          "confidence": "Possible",
+          "score": 30
+        },
+        {
           "id": "a111434a59babaf98f9c",
           "company": "Flow Traders",
           "title": "Trading Intern",
@@ -233,6 +272,18 @@
           "term": "Term unspecified",
           "confidence": "Possible",
           "score": 30
+        },
+        {
+          "id": "1b099d34e5214bc06712",
+          "company": "Citadel Securities",
+          "title": "Quantitative Trader - Intern (US) (Trading and Research)",
+          "location": "Miami, New York",
+          "url": "https://www.citadelsecurities.com/careers/details/quantitative-trader-intern-us-trading-and-research/",
+          "source": "QuantScraper 2027",
+          "track": "Quant",
+          "term": "Term unspecified",
+          "confidence": "Possible",
+          "score": 40
         },
         {
           "id": "5088edea507e640f4619",
@@ -307,23 +358,11 @@
           "score": 30
         },
         {
-          "id": "823616566ba4b9e1e02d",
-          "company": "Virtu Financial",
-          "title": "2027 Internship - Quantitative Trading",
-          "location": "Dublin",
-          "url": "https://job-boards.greenhouse.io/virtu/jobs/8547254002",
-          "source": "QuantScraper 2027",
-          "track": "Quant",
-          "term": "Term unspecified",
-          "confidence": "Possible",
-          "score": 30
-        },
-        {
-          "id": "a146755aeeb2219a81ca",
-          "company": "Citadel",
-          "title": "Investment & Trading - Intern (Europe)",
-          "location": "Amsterdam, London +1",
-          "url": "https://www.citadel.com/careers/details/investment-trading-intern-europe/",
+          "id": "c2ec837cb15c086ecf03",
+          "company": "Citadel Securities",
+          "title": "Quantitative Trading - Intern (Asia)",
+          "location": "Hong Kong",
+          "url": "https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-asia/",
           "source": "QuantScraper 2027",
           "track": "Quant",
           "term": "Term unspecified",
@@ -343,47 +382,11 @@
           "score": 30
         },
         {
-          "id": "1b099d34e5214bc06712",
-          "company": "Citadel Securities",
-          "title": "Quantitative Trader - Intern (US) (Trading and Research)",
-          "location": "Miami, New York",
-          "url": "https://www.citadelsecurities.com/careers/details/quantitative-trader-intern-us/",
-          "source": "QuantScraper 2027",
-          "track": "Quant",
-          "term": "Term unspecified",
-          "confidence": "Possible",
-          "score": 40
-        },
-        {
-          "id": "c2ec837cb15c086ecf03",
-          "company": "Citadel Securities",
-          "title": "Quantitative Trading - Intern (Asia)",
-          "location": "Hong Kong",
-          "url": "https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-asia/",
-          "source": "QuantScraper 2027",
-          "track": "Quant",
-          "term": "Term unspecified",
-          "confidence": "Possible",
-          "score": 30
-        },
-        {
-          "id": "c3a99082ee7222c4b927",
-          "company": "Citadel Securities",
-          "title": "Quantitative Trading - Intern (Europe)",
-          "location": "Amsterdam, London +1",
-          "url": "https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-europe/",
-          "source": "QuantScraper 2027",
-          "track": "Quant",
-          "term": "Term unspecified",
-          "confidence": "Possible",
-          "score": 30
-        },
-        {
-          "id": "b9b8c6bd973d72846cff",
-          "company": "Citadel Securities",
-          "title": "Rates Trading - Intern (Europe)",
-          "location": "Amsterdam, London +1",
-          "url": "https://www.citadelsecurities.com/careers/details/rates-trading-intern-europe/",
+          "id": "823616566ba4b9e1e02d",
+          "company": "Virtu Financial",
+          "title": "2027 Internship - Quantitative Trading",
+          "location": "Dublin",
+          "url": "https://job-boards.greenhouse.io/virtu/jobs/8547254002",
           "source": "QuantScraper 2027",
           "track": "Quant",
           "term": "Term unspecified",
@@ -465,7 +468,7 @@
       ]
     },
     "github_general:2027 US Internship List:https://raw.githubusercontent.com/sndsh404/summer-2027-internships/main/README.md": {
-      "checked_at": "2026-11-17T02:30:12+00:00",
+      "checked_at": "2026-11-17T16:55:02+00:00",
       "jobs": [
         {
           "id": "61340cad16a0223850af",
@@ -914,7 +917,7 @@
       ]
     },
     "lever:Belvedere Trading:belvederetrading": {
-      "checked_at": "2026-11-17T02:30:12+00:00",
+      "checked_at": "2026-11-17T16:55:02+00:00",
       "jobs": [
         {
           "id": "28f6d11fa39ee34b83b4",
@@ -931,7 +934,7 @@
       ]
     },
     "lever:QuantCo:quantco-": {
-      "checked_at": "2026-11-17T02:30:12+00:00",
+      "checked_at": "2026-11-17T16:55:02+00:00",
       "jobs": [
         {
           "id": "5ced777b43bdc3725530",
@@ -948,7 +951,7 @@
       ]
     },
     "greenhouse:Point72:point72": {
-      "checked_at": "2026-11-17T02:30:12+00:00",
+      "checked_at": "2026-11-17T16:55:02+00:00",
       "jobs": [
         {
           "id": "bb700e5e7fcb1310ad0d",
@@ -1037,11 +1040,11 @@
       ]
     },
     "greenhouse:Chicago Trading Company:ctccampusboard": {
-      "checked_at": "2026-11-17T02:30:12+00:00",
+      "checked_at": "2026-11-17T16:55:02+00:00",
       "jobs": []
     },
     "greenhouse:Flow Traders:flowtraders": {
-      "checked_at": "2026-11-17T02:30:12+00:00",
+      "checked_at": "2026-11-17T16:55:02+00:00",
       "jobs": [
         {
           "id": "a111434a59babaf98f9c",
@@ -1058,11 +1061,11 @@
       ]
     },
     "greenhouse:The Trade Desk:thetradedesk": {
-      "checked_at": "2026-11-17T02:30:12+00:00",
+      "checked_at": "2026-11-17T16:55:02+00:00",
       "jobs": []
     },
     "greenhouse:Neuralink:neuralink": {
-      "checked_at": "2026-11-17T02:30:12+00:00",
+      "checked_at": "2026-11-17T16:55:02+00:00",
       "jobs": [
         {
           "id": "8e61c560df45774acf66",
@@ -1151,7 +1154,7 @@
       ]
     },
     "greenhouse:IMC Trading:imc": {
-      "checked_at": "2026-11-17T02:30:12+00:00",
+      "checked_at": "2026-11-17T16:55:02+00:00",
       "jobs": [
         {
           "id": "17ffa0b2d18c37ad2d62",
@@ -1228,7 +1231,7 @@
       ]
     },
     "greenhouse:Man Group:mangroup": {
-      "checked_at": "2026-11-17T02:30:12+00:00",
+      "checked_at": "2026-11-17T16:55:02+00:00",
       "jobs": [
         {
           "id": "777868d424d967d443e0",
@@ -1257,7 +1260,7 @@
       ]
     },
     "ashby:Netic:netic": {
-      "checked_at": "2026-11-17T02:30:12+00:00",
+      "checked_at": "2026-11-17T16:55:02+00:00",
       "jobs": [
         {
           "id": "382b11d324d95050e55c",
@@ -1286,5 +1289,5 @@
       ]
     }
   },
-  "last_checked_at": "2026-11-17T02:30:12+00:00"
+  "last_checked_at": "2026-11-17T16:55:02+00:00"
 }
