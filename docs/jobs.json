@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T17:05:23+00:00",
+  "updated_at": "2026-11-17T02:30:12+00:00",
   "jobs": [
     {
       "id": "7474afa8374bffc32f68",
@@ -716,7 +716,7 @@
         "QuantScraper 2027"
       ],
       "first_seen": "2026-11-16T17:05:23+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "22ed911626d0368712de",
@@ -1555,7 +1555,7 @@
     "quant": 48,
     "confirmed": 18,
     "possible": 69,
-    "new_this_week": 3
+    "new_this_week": 2
   },
   "message": "Matches are automatically classified, not independently verified as open or eligible. Check each posting before applying."
 }
