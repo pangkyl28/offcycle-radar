@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T16:55:02+00:00",
+  "updated_at": "2026-11-18T01:38:23+00:00",
   "jobs": [
     {
       "id": "7474afa8374bffc32f68",
@@ -716,7 +716,7 @@
         "QuantScraper 2027"
       ],
       "first_seen": "2026-11-17T16:55:02+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "7869182853cefb0086c8",
@@ -733,7 +733,7 @@
         "QuantScraper 2027"
       ],
       "first_seen": "2026-11-17T16:55:02+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "c070c93c0ac0f88c0a96",
@@ -750,7 +750,7 @@
         "QuantScraper 2027"
       ],
       "first_seen": "2026-11-17T16:55:02+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "5423e0a1bd757dd38101",
@@ -801,42 +801,6 @@
         "QuantScraper 2027"
       ],
       "first_seen": "2026-11-10T02:11:12+00:00",
-      "is_new": false
-    },
-    {
-      "id": "ef2a416ba63719452f81",
-      "company": "IMC",
-      "title": "Trader Intern",
-      "location": "Amsterdam",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4939846101",
-      "source": "QuantScraper 2027",
-      "track": "Quant",
-      "term": "Term unspecified",
-      "confidence": "Possible",
-      "score": 30,
-      "sources": [
-        "QuantScraper 2027",
-        "IMC Trading"
-      ],
-      "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": false
-    },
-    {
-      "id": "d23512980a2aeb671b31",
-      "company": "IMC",
-      "title": "Quantitative Trader Intern",
-      "location": "Amsterdam",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4936262101",
-      "source": "QuantScraper 2027",
-      "track": "Quant",
-      "term": "Term unspecified",
-      "confidence": "Possible",
-      "score": 30,
-      "sources": [
-        "QuantScraper 2027",
-        "IMC Trading"
-      ],
-      "first_seen": "2026-11-09T06:38:19+00:00",
       "is_new": false
     },
     {
@@ -1010,11 +974,47 @@
       "is_new": false
     },
     {
+      "id": "d23512980a2aeb671b31",
+      "company": "IMC",
+      "title": "Quantitative Trader Intern",
+      "location": "Amsterdam",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4936262101",
+      "source": "QuantScraper 2027",
+      "track": "Quant",
+      "term": "Term unspecified",
+      "confidence": "Possible",
+      "score": 30,
+      "sources": [
+        "QuantScraper 2027",
+        "IMC Trading"
+      ],
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": false
+    },
+    {
       "id": "383c5ba2ea1c5d0df307",
       "company": "IMC",
       "title": "Quantitative Trader Intern 2027",
       "location": "Hong Kong",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4941205101",
+      "source": "QuantScraper 2027",
+      "track": "Quant",
+      "term": "Term unspecified",
+      "confidence": "Possible",
+      "score": 30,
+      "sources": [
+        "QuantScraper 2027",
+        "IMC Trading"
+      ],
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": false
+    },
+    {
+      "id": "ef2a416ba63719452f81",
+      "company": "IMC",
+      "title": "Trader Intern",
+      "location": "Amsterdam",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4939846101",
       "source": "QuantScraper 2027",
       "track": "Quant",
       "term": "Term unspecified",
