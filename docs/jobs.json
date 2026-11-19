@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T01:15:33+00:00",
+  "updated_at": "2026-11-19T16:36:48+00:00",
   "jobs": [
     {
       "id": "7474afa8374bffc32f68",
@@ -700,6 +700,24 @@
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
       "is_new": false
+    },
+    {
+      "id": "85ca82677dc6dac59216",
+      "company": "Point72",
+      "title": "2027 Trader Intern (12-week program)",
+      "location": "Hong Kong, Japan (anywhere)",
+      "url": "https://boards.greenhouse.io/point72/jobs/8932943002?gh_jid=8932943002",
+      "source": "QuantScraper 2027",
+      "track": "Quant",
+      "term": "Term unspecified",
+      "confidence": "Possible",
+      "score": 30,
+      "sources": [
+        "QuantScraper 2027",
+        "Point72"
+      ],
+      "first_seen": "2026-11-19T16:36:48+00:00",
+      "is_new": true
     },
     {
       "id": "5e5e3ac13c813710e516",
@@ -1491,7 +1509,7 @@
     {
       "name": "QuantScraper 2027",
       "status": "OK",
-      "matches": 29
+      "matches": 30
     },
     {
       "name": "2027 US Internship List",
@@ -1511,7 +1529,7 @@
     {
       "name": "Point72",
       "status": "OK",
-      "matches": 7
+      "matches": 8
     },
     {
       "name": "Chicago Trading Company",
@@ -1550,12 +1568,12 @@
     }
   ],
   "summary": {
-    "total": 87,
+    "total": 88,
     "swe": 39,
-    "quant": 48,
+    "quant": 49,
     "confirmed": 18,
-    "possible": 69,
-    "new_this_week": 5
+    "possible": 70,
+    "new_this_week": 6
   },
   "message": "Matches are automatically classified, not independently verified as open or eligible. Check each posting before applying."
 }

@@ -91,7 +91,8 @@
     "5423e0a1bd757dd38101": "2026-11-16T17:05:23+00:00",
     "5e5e3ac13c813710e516": "2026-11-17T16:55:02+00:00",
     "7869182853cefb0086c8": "2026-11-17T16:55:02+00:00",
-    "c070c93c0ac0f88c0a96": "2026-11-17T16:55:02+00:00"
+    "c070c93c0ac0f88c0a96": "2026-11-17T16:55:02+00:00",
+    "85ca82677dc6dac59216": "2026-11-19T16:36:48+00:00"
   },
   "alerted": [
     "1858533abef6e54e0247",
@@ -115,8 +116,20 @@
   ],
   "snapshots": {
     "github_quant:QuantScraper 2027:https://raw.githubusercontent.com/quant-scraper/Quant-Internships-New-Grad-2027/main/README.md": {
-      "checked_at": "2026-11-19T01:15:33+00:00",
+      "checked_at": "2026-11-19T16:36:48+00:00",
       "jobs": [
+        {
+          "id": "85ca82677dc6dac59216",
+          "company": "Point72",
+          "title": "2027 Trader Intern (12-week program)",
+          "location": "Hong Kong, Japan (anywhere)",
+          "url": "https://boards.greenhouse.io/point72/jobs/8932943002?gh_jid=8932943002",
+          "source": "QuantScraper 2027",
+          "track": "Quant",
+          "term": "Term unspecified",
+          "confidence": "Possible",
+          "score": 30
+        },
         {
           "id": "5423e0a1bd757dd38101",
           "company": "Susquehanna International Group",
@@ -468,7 +481,7 @@
       ]
     },
     "github_general:2027 US Internship List:https://raw.githubusercontent.com/sndsh404/summer-2027-internships/main/README.md": {
-      "checked_at": "2026-11-19T01:15:33+00:00",
+      "checked_at": "2026-11-19T16:36:48+00:00",
       "jobs": [
         {
           "id": "61340cad16a0223850af",
@@ -917,7 +930,7 @@
       ]
     },
     "lever:Belvedere Trading:belvederetrading": {
-      "checked_at": "2026-11-19T01:15:33+00:00",
+      "checked_at": "2026-11-19T16:36:48+00:00",
       "jobs": [
         {
           "id": "28f6d11fa39ee34b83b4",
@@ -934,7 +947,7 @@
       ]
     },
     "lever:QuantCo:quantco-": {
-      "checked_at": "2026-11-19T01:15:33+00:00",
+      "checked_at": "2026-11-19T16:36:48+00:00",
       "jobs": [
         {
           "id": "5ced777b43bdc3725530",
@@ -951,8 +964,20 @@
       ]
     },
     "greenhouse:Point72:point72": {
-      "checked_at": "2026-11-19T01:15:33+00:00",
+      "checked_at": "2026-11-19T16:36:48+00:00",
       "jobs": [
+        {
+          "id": "7dde0d557120d1afa91b",
+          "company": "Point72",
+          "title": "2027 Trader Intern (12-week program)",
+          "location": "Hong Kong Japan",
+          "url": "https://boards.greenhouse.io/point72/jobs/8932943002?gh_jid=8932943002",
+          "source": "Point72",
+          "track": "Quant",
+          "term": "Term unspecified",
+          "confidence": "Possible",
+          "score": 30
+        },
         {
           "id": "bb700e5e7fcb1310ad0d",
           "company": "Point72",
@@ -1040,11 +1065,11 @@
       ]
     },
     "greenhouse:Chicago Trading Company:ctccampusboard": {
-      "checked_at": "2026-11-19T01:15:33+00:00",
+      "checked_at": "2026-11-19T16:36:48+00:00",
       "jobs": []
     },
     "greenhouse:Flow Traders:flowtraders": {
-      "checked_at": "2026-11-19T01:15:33+00:00",
+      "checked_at": "2026-11-19T16:36:48+00:00",
       "jobs": [
         {
           "id": "a111434a59babaf98f9c",
@@ -1061,11 +1086,11 @@
       ]
     },
     "greenhouse:The Trade Desk:thetradedesk": {
-      "checked_at": "2026-11-19T01:15:33+00:00",
+      "checked_at": "2026-11-19T16:36:48+00:00",
       "jobs": []
     },
     "greenhouse:Neuralink:neuralink": {
-      "checked_at": "2026-11-19T01:15:33+00:00",
+      "checked_at": "2026-11-19T16:36:48+00:00",
       "jobs": [
         {
           "id": "8e61c560df45774acf66",
@@ -1154,7 +1179,7 @@
       ]
     },
     "greenhouse:IMC Trading:imc": {
-      "checked_at": "2026-11-19T01:15:33+00:00",
+      "checked_at": "2026-11-19T16:36:48+00:00",
       "jobs": [
         {
           "id": "17ffa0b2d18c37ad2d62",
@@ -1231,7 +1256,7 @@
       ]
     },
     "greenhouse:Man Group:mangroup": {
-      "checked_at": "2026-11-19T01:15:33+00:00",
+      "checked_at": "2026-11-19T16:36:48+00:00",
       "jobs": [
         {
           "id": "777868d424d967d443e0",
@@ -1260,7 +1285,7 @@
       ]
     },
     "ashby:Netic:netic": {
-      "checked_at": "2026-11-19T01:15:33+00:00",
+      "checked_at": "2026-11-19T16:36:48+00:00",
       "jobs": [
         {
           "id": "382b11d324d95050e55c",
@@ -1289,5 +1314,5 @@
       ]
     }
   },
-  "last_checked_at": "2026-11-19T01:15:33+00:00"
+  "last_checked_at": "2026-11-19T16:36:48+00:00"
 }
