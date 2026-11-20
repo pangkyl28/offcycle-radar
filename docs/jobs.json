@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T16:36:48+00:00",
+  "updated_at": "2026-11-20T01:18:16+00:00",
   "jobs": [
     {
       "id": "7474afa8374bffc32f68",
@@ -717,7 +717,7 @@
         "Point72"
       ],
       "first_seen": "2026-11-19T16:36:48+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "5e5e3ac13c813710e516",
@@ -1573,7 +1573,7 @@
     "quant": 49,
     "confirmed": 18,
     "possible": 70,
-    "new_this_week": 6
+    "new_this_week": 5
   },
   "message": "Matches are automatically classified, not independently verified as open or eligible. Check each posting before applying."
 }
