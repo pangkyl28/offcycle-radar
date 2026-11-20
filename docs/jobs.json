@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T01:18:16+00:00",
+  "updated_at": "2026-11-20T16:12:08+00:00",
   "jobs": [
     {
       "id": "7474afa8374bffc32f68",
@@ -272,40 +272,6 @@
       "score": 60,
       "sources": [
         "QuantCo"
-      ],
-      "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": false
-    },
-    {
-      "id": "382b11d324d95050e55c",
-      "company": "Netic",
-      "title": "Full-Stack Software Engineer (Product) - Intern - 2026-2027",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef/application",
-      "source": "Netic",
-      "track": "SWE",
-      "term": "Winter 2027",
-      "confidence": "Confirmed",
-      "score": 60,
-      "sources": [
-        "Netic"
-      ],
-      "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": false
-    },
-    {
-      "id": "ee7cf0d69fd9adeaff7c",
-      "company": "Netic",
-      "title": "Software Engineer (Agent Platform) - Intern - 2026-2027",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7/application",
-      "source": "Netic",
-      "track": "SWE",
-      "term": "Winter 2027",
-      "confidence": "Confirmed",
-      "score": 60,
-      "sources": [
-        "Netic"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
       "is_new": false
@@ -1564,14 +1530,14 @@
     {
       "name": "Netic",
       "status": "OK",
-      "matches": 2
+      "matches": 0
     }
   ],
   "summary": {
-    "total": 88,
-    "swe": 39,
+    "total": 86,
+    "swe": 37,
     "quant": 49,
-    "confirmed": 18,
+    "confirmed": 16,
     "possible": 70,
     "new_this_week": 5
   },
