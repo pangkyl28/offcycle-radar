@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T04:19:56+00:00",
+  "updated_at": "2026-11-24T18:55:23+00:00",
   "jobs": [
     {
       "id": "7474afa8374bffc32f68",
@@ -629,23 +629,6 @@
       "score": 35,
       "sources": [
         "2027 US Internship List"
-      ],
-      "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": false
-    },
-    {
-      "id": "bb700e5e7fcb1310ad0d",
-      "company": "Point72",
-      "title": "Micro-Intern: Research Technology Developer (IAP)",
-      "location": "New York",
-      "url": "https://boards.greenhouse.io/point72/jobs/8236734002?gh_jid=8236734002",
-      "source": "Point72",
-      "track": "SWE",
-      "term": "Term unspecified",
-      "confidence": "Possible",
-      "score": 35,
-      "sources": [
-        "Point72"
       ],
       "first_seen": "2026-11-09T06:38:19+00:00",
       "is_new": false
@@ -1478,7 +1461,7 @@
     {
       "name": "Point72",
       "status": "OK",
-      "matches": 8
+      "matches": 7
     },
     {
       "name": "Chicago Trading Company",
@@ -1517,12 +1500,12 @@
     }
   ],
   "summary": {
-    "total": 85,
-    "swe": 37,
+    "total": 84,
+    "swe": 36,
     "quant": 48,
     "confirmed": 16,
-    "possible": 69,
-    "new_this_week": 4
+    "possible": 68,
+    "new_this_week": 1
   },
   "message": "Matches are automatically classified, not independently verified as open or eligible. Check each posting before applying."
 }
