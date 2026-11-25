@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T03:03:59+00:00",
+  "updated_at": "2026-11-25T17:59:34+00:00",
   "jobs": [
     {
       "id": "7474afa8374bffc32f68",
@@ -873,23 +873,6 @@
       "is_new": false
     },
     {
-      "id": "823616566ba4b9e1e02d",
-      "company": "Virtu Financial",
-      "title": "2027 Internship - Quantitative Trading",
-      "location": "Dublin",
-      "url": "https://job-boards.greenhouse.io/virtu/jobs/8547254002",
-      "source": "QuantScraper 2027",
-      "track": "Quant",
-      "term": "Term unspecified",
-      "confidence": "Possible",
-      "score": 30,
-      "sources": [
-        "QuantScraper 2027"
-      ],
-      "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": false
-    },
-    {
       "id": "010eafb88992a541591a",
       "company": "Da Vinci",
       "title": "Quant Trading Intern",
@@ -1441,7 +1424,7 @@
     {
       "name": "QuantScraper 2027",
       "status": "OK",
-      "matches": 29
+      "matches": 28
     },
     {
       "name": "2027 US Internship List",
@@ -1500,11 +1483,11 @@
     }
   ],
   "summary": {
-    "total": 84,
+    "total": 83,
     "swe": 36,
-    "quant": 48,
+    "quant": 47,
     "confirmed": 16,
-    "possible": 68,
+    "possible": 67,
     "new_this_week": 1
   },
   "message": "Matches are automatically classified, not independently verified as open or eligible. Check each posting before applying."
