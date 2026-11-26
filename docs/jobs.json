@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T02:15:07+00:00",
+  "updated_at": "2026-11-26T17:45:19+00:00",
   "jobs": [
     {
       "id": "7474afa8374bffc32f68",
@@ -1128,7 +1128,7 @@
         "Neuralink"
       ],
       "first_seen": "2026-11-26T02:15:07+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "61340cad16a0223850af",
@@ -1488,7 +1488,7 @@
     "quant": 47,
     "confirmed": 16,
     "possible": 67,
-    "new_this_week": 2
+    "new_this_week": 1
   },
   "message": "Matches are automatically classified, not independently verified as open or eligible. Check each posting before applying."
 }
