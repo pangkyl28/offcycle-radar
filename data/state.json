@@ -117,7 +117,7 @@
   ],
   "snapshots": {
     "github_quant:QuantScraper 2027:https://raw.githubusercontent.com/quant-scraper/Quant-Internships-New-Grad-2027/main/README.md": {
-      "checked_at": "2026-11-26T17:45:19+00:00",
+      "checked_at": "2026-11-27T02:14:33+00:00",
       "jobs": [
         {
           "id": "85ca82677dc6dac59216",
@@ -458,7 +458,7 @@
       ]
     },
     "github_general:2027 US Internship List:https://raw.githubusercontent.com/sndsh404/summer-2027-internships/main/README.md": {
-      "checked_at": "2026-11-26T17:45:19+00:00",
+      "checked_at": "2026-11-27T02:14:33+00:00",
       "jobs": [
         {
           "id": "61340cad16a0223850af",
@@ -907,7 +907,7 @@
       ]
     },
     "lever:Belvedere Trading:belvederetrading": {
-      "checked_at": "2026-11-26T17:45:19+00:00",
+      "checked_at": "2026-11-27T02:14:33+00:00",
       "jobs": [
         {
           "id": "28f6d11fa39ee34b83b4",
@@ -924,7 +924,7 @@
       ]
     },
     "lever:QuantCo:quantco-": {
-      "checked_at": "2026-11-26T17:45:19+00:00",
+      "checked_at": "2026-11-27T02:14:33+00:00",
       "jobs": [
         {
           "id": "5ced777b43bdc3725530",
@@ -941,7 +941,7 @@
       ]
     },
     "greenhouse:Point72:point72": {
-      "checked_at": "2026-11-26T17:45:19+00:00",
+      "checked_at": "2026-11-27T02:14:33+00:00",
       "jobs": [
         {
           "id": "7dde0d557120d1afa91b",
@@ -1030,11 +1030,11 @@
       ]
     },
     "greenhouse:Chicago Trading Company:ctccampusboard": {
-      "checked_at": "2026-11-26T17:45:19+00:00",
+      "checked_at": "2026-11-27T02:14:33+00:00",
       "jobs": []
     },
     "greenhouse:Flow Traders:flowtraders": {
-      "checked_at": "2026-11-26T17:45:19+00:00",
+      "checked_at": "2026-11-27T02:14:33+00:00",
       "jobs": [
         {
           "id": "a111434a59babaf98f9c",
@@ -1051,11 +1051,11 @@
       ]
     },
     "greenhouse:The Trade Desk:thetradedesk": {
-      "checked_at": "2026-11-26T17:45:19+00:00",
+      "checked_at": "2026-11-27T02:14:33+00:00",
       "jobs": []
     },
     "greenhouse:Neuralink:neuralink": {
-      "checked_at": "2026-11-26T17:45:19+00:00",
+      "checked_at": "2026-11-27T02:14:33+00:00",
       "jobs": [
         {
           "id": "8e61c560df45774acf66",
@@ -1144,7 +1144,7 @@
       ]
     },
     "greenhouse:IMC Trading:imc": {
-      "checked_at": "2026-11-26T17:45:19+00:00",
+      "checked_at": "2026-11-27T02:14:33+00:00",
       "jobs": [
         {
           "id": "17ffa0b2d18c37ad2d62",
@@ -1221,7 +1221,7 @@
       ]
     },
     "greenhouse:Man Group:mangroup": {
-      "checked_at": "2026-11-26T17:45:19+00:00",
+      "checked_at": "2026-11-27T02:14:33+00:00",
       "jobs": [
         {
           "id": "777868d424d967d443e0",
@@ -1250,9 +1250,9 @@
       ]
     },
     "ashby:Netic:netic": {
-      "checked_at": "2026-11-26T17:45:19+00:00",
+      "checked_at": "2026-11-27T02:14:33+00:00",
       "jobs": []
     }
   },
-  "last_checked_at": "2026-11-26T17:45:19+00:00"
+  "last_checked_at": "2026-11-27T02:14:33+00:00"
 }
