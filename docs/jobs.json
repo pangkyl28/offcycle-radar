@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T02:14:33+00:00",
+  "updated_at": "2026-11-27T17:29:36+00:00",
   "jobs": [
     {
       "id": "7474afa8374bffc32f68",
@@ -754,6 +754,23 @@
       "is_new": false
     },
     {
+      "id": "010eafb88992a541591a",
+      "company": "Da Vinci",
+      "title": "Quant Trading Intern",
+      "location": "Amsterdam",
+      "url": "https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4196845101",
+      "source": "QuantScraper 2027",
+      "track": "Quant",
+      "term": "Term unspecified",
+      "confidence": "Possible",
+      "score": 30,
+      "sources": [
+        "QuantScraper 2027"
+      ],
+      "first_seen": "2026-11-09T06:38:19+00:00",
+      "is_new": false
+    },
+    {
       "id": "b3199e83b7fed82a4659",
       "company": "Citadel",
       "title": "Trader: Fixed Income & Macro Rotational Trader - Intern (US)",
@@ -861,23 +878,6 @@
       "title": "Quantitative Trader: Equity Quantitative Research - Intern (US)",
       "location": "Greenwich, Miami +1",
       "url": "https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-intern-us/",
-      "source": "QuantScraper 2027",
-      "track": "Quant",
-      "term": "Term unspecified",
-      "confidence": "Possible",
-      "score": 30,
-      "sources": [
-        "QuantScraper 2027"
-      ],
-      "first_seen": "2026-11-09T06:38:19+00:00",
-      "is_new": false
-    },
-    {
-      "id": "010eafb88992a541591a",
-      "company": "Da Vinci",
-      "title": "Quant Trading Intern",
-      "location": "Amsterdam",
-      "url": "https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4196845101",
       "source": "QuantScraper 2027",
       "track": "Quant",
       "term": "Term unspecified",
